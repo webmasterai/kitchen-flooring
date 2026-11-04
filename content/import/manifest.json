@@ -1,0 +1,1994 @@
+[
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/kitchenFlooringLogoKFD21-1920w.jpg",
+    "localPath": "public/media/logo/kfd-logo.jpg",
+    "pageSource": "logo",
+    "bytes": 37194,
+    "sha256": "dcb9c40084f40b9b199120cf95464305352f6e2d867fec74b7e6580b504d2e90",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/rune-enstad-1090369-unsplash.jpg",
+    "localPath": "public/media/hero/rune-enstad-1090369-unsplash.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 92497,
+    "sha256": "834961b9f431b3588363ea8ac12ae31b52213de5ef84db04f817270aee7cdc3e",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/84fef3e77b974e1f037902bb436b5b30.jpg",
+    "localPath": "public/media/hero/84fef3e77b974e1f037902bb436b5b30.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 39351,
+    "sha256": "7f01205db74226cc4143ade6bd8bba2dd3615e89349f8dc03b7ac34d7e2c2bc9",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/d5ac4564cd551134f12b999f0409e54a.jpg",
+    "localPath": "public/media/hero/d5ac4564cd551134f12b999f0409e54a.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 62475,
+    "sha256": "f16494659e9a2414b2b7b92c4e1a8a5b11ced8c32d652970a7da4d7f857513d2",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/9db1e056017df13b120ff25a3d823610.jpg",
+    "localPath": "public/media/hero/9db1e056017df13b120ff25a3d823610.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 88266,
+    "sha256": "364b644fe6141b3d46f01b9c9fff5700dfe5bcd6ccbeec9e12b350b539cbad49",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/4c57ba8c4c5e7245bdb58c5e9e8d1170.jpg",
+    "localPath": "public/media/hero/4c57ba8c4c5e7245bdb58c5e9e8d1170.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 30229,
+    "sha256": "d33c695c2387dc3855ca2d9ae426c2bc810be78c6e2133f3f112608676c5439c",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/c47f5d4458c9a2b161a19593344938a1.jpg",
+    "localPath": "public/media/hero/c47f5d4458c9a2b161a19593344938a1.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 28027,
+    "sha256": "b6798d897a0f7e6e16fcefcaa18841512e5833ab91798a3cfb0ad46acf2bc8d4",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/kitchen-main-hero-d51cb748.jpeg",
+    "localPath": "public/media/hero/kitchen-main-hero-d51cb748-qqt2r33ci2xqcey4jj8t3dmervom0gcngyzg56kbu4.jpeg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 200983,
+    "sha256": "ec2829f8d622ff5ecd61c7f9671cf4c2b5952760bea7baa760a347073692fb69",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/rune-enstad-1090369-unsplash.jpg",
+    "localPath": "public/media/hero/rune-enstad-1090369-unsplash-qqt0hszrito4eb0g5wf6ze0hjeazeoo8mo4x6t2vvw.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 92497,
+    "sha256": "834961b9f431b3588363ea8ac12ae31b52213de5ef84db04f817270aee7cdc3e",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/36715c8ce4da9d521da45338573e8c1c.jpg",
+    "localPath": "public/media/hero/36715c8ce4da9d521da45338573e8c1c-qragr7ffgj6q8xz4fea0kyt45k0iu86qwetg5u18fg.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 77118,
+    "sha256": "9904decf7a361485cd870f2d73b5bb68137e03f3b129a15ec59b0cc8d63013e2",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/myrna3-scaled.jpg",
+    "localPath": "public/media/hero/myrna3-scaled-qrhabkgqhiz55uutx6wjomrhmkztdst8o53h10ca98.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 717499,
+    "sha256": "8912c076c24349d59f0a8cba62c3e7bcbdbda93dfa8d54eec4c6b50ea3cbf3be",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/urban-crush.jpg",
+    "localPath": "public/media/services/urban-crush-1024x832.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 250673,
+    "sha256": "73f5f6ca4e308ce38c0f18efc250420440decb8e0097529f85cc71fef6d0892c",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Photo12-1920w-2.jpg",
+    "localPath": "public/media/services/Photo12-1920w-2-1024x768.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 320416,
+    "sha256": "d2be14c511909b2b08bc4cad14ae60df225eaf32080976f5bc05b2eebced4e1d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/3bb437a5e748087f10a451927ead9a61bb31852d_hero-image-1.jpg",
+    "localPath": "public/media/services/3bb437a5e748087f10a451927ead9a61bb31852d_hero-image-1-1024x606.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 89783,
+    "sha256": "35dbce3f55664df1bfd9165a993ec7370fefb5e7b012082883266ca999902dd4",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/c96f081c-3d94-4c25-b210-fdd92b9f619e_KitchenFusionStone.jpg",
+    "localPath": "public/media/services/c96f081c-3d94-4c25-b210-fdd92b9f619e_KitchenFusionStone-1024x896.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 557275,
+    "sha256": "9e9196de8cd05155d7595e20ca5d712ecf9619c1567fcdbe2c3a03e2848b06ae",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/61a2fbdf073d5845a6c19ad6a246dfc86247e601_swanky-spot-hero.jpg",
+    "localPath": "public/media/services/61a2fbdf073d5845a6c19ad6a246dfc86247e601_swanky-spot-hero-1024x674.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 180897,
+    "sha256": "2944bc215e65bdbea209836ba70fa671a9a9f08bc909ac9b723ecee1de3c74c0",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/leo-kitchor-home5-banner6-img1.webp",
+    "localPath": "public/media/services/leo-kitchor-home5-banner6-img1.webp",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 63950,
+    "sha256": "a956034a48ec295a5bf7207ab8cd4531f6576ae8b7fd9cd346c7eb37f43903c5",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/aaron-huber-401200-unsplash.jpg",
+    "localPath": "public/media/services/aaron-huber-401200-unsplash.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/cabinets/",
+    "bytes": 72007,
+    "sha256": "8a1214f6a20c80849a5394e6cd4b1ca355d27e30f7689a8c24e595d0d59d61eb",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/e131a664-dc87-45fe-b016-b5174ae319f6-1.jpeg",
+    "localPath": "public/media/services/e131a664-dc87-45fe-b016-b5174ae319f6-1-qrtm8riqi71u6ne0q4bu85f40ej7ar952l4r8bapag.jpeg",
+    "pageSource": "https://website.kitchenflooringdepot.com/cabinets/",
+    "bytes": 241468,
+    "sha256": "07fb9029f9e19fe0899b03a018fb359cb5fb606ac6db0e7e352fa73e2c57368d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/loewe-technologies-1105956-unsplash.jpg",
+    "localPath": "public/media/services/loewe-technologies-1105956-unsplash.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/cabinets/",
+    "bytes": 56464,
+    "sha256": "6cfe11447611d905df7ba1ed4316e8c4df026cf04f251a2276cfdcc92bd73a38",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/h6.jpg",
+    "localPath": "public/media/services/h6-1024x768.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/cabinets/",
+    "bytes": 2365296,
+    "sha256": "2db6ec08413b30c67a42751065d7339d94bae8ffdb931d23b4b7725fd47e349a",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/leo-kitchor-home4-banner4-img2.jpg",
+    "localPath": "public/media/services/leo-kitchor-home4-banner4-img2.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+    "bytes": 57715,
+    "sha256": "196e7a2b5614043cc9ba767dc571ad11abd852baabdb11a4f1cff9595584139b",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/leo-kitchor-home4-banner4-img1.jpg",
+    "localPath": "public/media/services/leo-kitchor-home4-banner4-img1.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+    "bytes": 27567,
+    "sha256": "371228244770e303a194a989cd6e3a0480bcb196453e80d93d2a4e2b54c758a3",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/ceramic-porcelain-tile_silk-light-grey-matte-6de900f0f8347293d4adac1743d3f12f_fb3761a9-5d27-4c0a-8926-38996d4c772e.webp",
+    "localPath": "public/media/services/ceramic-porcelain-tile_silk-light-grey-matte-6de900f0f8347293d4adac1743d3f12f_fb3761a9-5d27-4c0a-8926-38996d4c772e-1024x725.webp",
+    "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+    "bytes": 182646,
+    "sha256": "16f026f5dbe93995b919f1844c229cc57057936aa48f11bd1d1b1dd035aea214",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/flora2.jpg",
+    "localPath": "public/media/services/flora2.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+    "bytes": 98827,
+    "sha256": "b8abdacda99c2c5834facf8ac35d336cb303458b6903916068c9b9fb1cf8c176",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/laminate-vs-vinyl-feature-pic-1_2048x.webp",
+    "localPath": "public/media/services/laminate-vs-vinyl-feature-pic-1_2048x-1024x713.webp",
+    "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+    "bytes": 435418,
+    "sha256": "f6f2d80866cb49d54fd2451d65ce598e03a8576211f32fc094a2758076271181",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/503861149fc33748efc720344aa0b565.jpg",
+    "localPath": "public/media/services/503861149fc33748efc720344aa0b565.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 48955,
+    "sha256": "552f3bb86591f8af0af260d6a7edde78ea404feeeb111c96152f353f7664d163",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-1.avif",
+    "localPath": "public/media/services/img-1.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 39087,
+    "sha256": "d1f6911a31ad2c5c359f5d02101250a67c4304e4c99d38c1551bf087fab380ac",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-1.2.avif",
+    "localPath": "public/media/services/img-1.2.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 34703,
+    "sha256": "8ec27b2ac5c9d103a7dc043447951e74e77ff39d155bc7bf313700458b650a6d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-1.3.avif",
+    "localPath": "public/media/services/img-1.3.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 45520,
+    "sha256": "0b2c3a1194f60b665e783581c6e97b63161ca5d8b8c9d5e3a4e52b009e3b0e3b",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-3.1.avif",
+    "localPath": "public/media/services/img-3.1.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 40468,
+    "sha256": "da46fdad9a361fae77e947fc6c8dae6ea472ab4167a45b69ce5042b7693212f0",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-3.3.avif",
+    "localPath": "public/media/services/img-3.3.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 58101,
+    "sha256": "7ffa081af8d8a1cbe0db74cb92586fa6917e10887a5d51898f8ea3f1f744767b",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-4.1.avif",
+    "localPath": "public/media/services/img-4.1.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 47724,
+    "sha256": "05600a71edee737ff2323cc2bfc9246ee42f6c8b9d742f7854e65366c7875f46",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-5.1.avif",
+    "localPath": "public/media/services/img-5.1.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 47443,
+    "sha256": "f095bc93d04d46dbaf7ce5681f861b7ffddd43f18fefae4a8bcd76cd5466abeb",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-4.3.avif",
+    "localPath": "public/media/services/img-4.3.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 40214,
+    "sha256": "5c62c65975b1cbba1c51b3a749c367c77ff485bba4b6118afcea46767b84cd5a",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-6.1.avif",
+    "localPath": "public/media/services/img-6.1.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 29250,
+    "sha256": "c6e63c5c2c54a285a4a0055503bdbe9150488e31c05d439c247e4cb3c902f8b7",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-6.2.avif",
+    "localPath": "public/media/services/img-6.2.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 29844,
+    "sha256": "d7c57bc87c9f44b84abce04affe90edca4b16df48b8a0c94a22cb10e11b6ca13",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-6.3.avif",
+    "localPath": "public/media/services/img-6.3.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 26212,
+    "sha256": "75b83b7590124e6c2b3ace8950b0c406e6ef90e591d71f2d7bca8e8dcad450e2",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-8.2.avif",
+    "localPath": "public/media/services/img-8.2.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 34094,
+    "sha256": "a014d7fc9374aa44734fea81d13931ca60b62b5bf150fef4566494c252752ea1",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-8.3.avif",
+    "localPath": "public/media/services/img-8.3.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 43929,
+    "sha256": "098e409b05d5f01cae5d888817f664b2b3e69a301cb56808eaa676c9bae7b115",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-7.1.avif",
+    "localPath": "public/media/services/img-7.1.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 25155,
+    "sha256": "5e77abc1485036cff3aec3d228fe0dda877179dc5ce91075e43f0016663e1ccb",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-7.3.avif",
+    "localPath": "public/media/services/img-7.3.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 27597,
+    "sha256": "22cc23b347e0aa2017aced4ab1045eb2e95e44f52dce434f6e76d9033e1070d9",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-9.2.avif",
+    "localPath": "public/media/services/img-9.2-qrt6bwrlpij91r1djzgzvsgww4ru1vcn4appo4tifc.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 22026,
+    "sha256": "54972f00dff3751a1c08d24e450955549d0b6c75cde2ca0a006e7cbae7372b0e",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Vanity-8.webp",
+    "localPath": "public/media/services/Vanity-8-qrpqfmxrowr9e1u0f0a38bpg0gw2yudjvzumu63zwo.webp",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 23440,
+    "sha256": "c90ac97993b5a32b7eb616ed92260f24bdc392f2c519b714e1bf0032e53494e5",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/vanity-10.png",
+    "localPath": "public/media/services/vanity-10-qrppq3nm0xstzexbiywyhron1mr3uv02dltrhjz0y0.png",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 905875,
+    "sha256": "572a490e7c70fa8d206142a2023f12b1143d5b415703ac53d8e8cedef583fd3d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/c1c1f257dec3e9231e666786ccb89d04.jpg",
+    "localPath": "public/media/services/c1c1f257dec3e9231e666786ccb89d04-qragxv4b7j026hyn2q734opvjkqbfr3yhb7mcuqqh4.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 58771,
+    "sha256": "9cb05874f415e8c09646f3b123126edb30e4aafd70e724e737f2661c6e01b5ef",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/378a032a517d87ad21de440ad1e49599.jpg",
+    "localPath": "public/media/services/378a032a517d87ad21de440ad1e49599-qragr9b56fyil5k2ndeh3uq993agcbvv8m5rxujc7c.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 86408,
+    "sha256": "46af4f10b89e9098036c600dfbd5e0743750882e26986c29f88f2c253164e325",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/2037fa24db079717439e7785d2814457.jpg",
+    "localPath": "public/media/services/2037fa24db079717439e7785d2814457-qragr4ly89s2z3qwetdc9dwya5xm9ud7jywcjgqb2g.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 47801,
+    "sha256": "93e41c8bf97c955dacc315ce5aa0ea94766b609a0c957d8acd28e84f7cf0094a",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/0ea463ba07322b0805275547fb7aa7fb.jpg",
+    "localPath": "public/media/services/0ea463ba07322b0805275547fb7aa7fb-qragr3o41fqsnhs9kaypow5hos29259h7u8v26rp8o.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 60152,
+    "sha256": "30671c99db6f1555949f75cab61b173889249f173f2c3039a5a0f352569a942b",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/24adb78caf934c7da8edca425668f1e2.jpg",
+    "localPath": "public/media/services/24adb78caf934c7da8edca425668f1e2-qragr5jsf3tdappj9brytvoevjszhjgxw3ju0qoww8.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 68587,
+    "sha256": "e030241cd996a95db628f3d45ae3f3e7e9c5c9f4bab261f89e71e515fe78b6b8",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/36715c8ce4da9d521da45338573e8c1c.jpg",
+    "localPath": "public/media/services/36715c8ce4da9d521da45338573e8c1c-qragr7fgsrvxxxmsycl7yv7c2bjpwxoekcuszam4js.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 77118,
+    "sha256": "9904decf7a361485cd870f2d73b5bb68137e03f3b129a15ec59b0cc8d63013e2",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/0ea463ba07322b0805275547fb7aa7fb.jpg",
+    "localPath": "public/media/services/0ea463ba07322b0805275547fb7aa7fb.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 60152,
+    "sha256": "30671c99db6f1555949f75cab61b173889249f173f2c3039a5a0f352569a942b",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Vanity-8.webp",
+    "localPath": "public/media/services/Vanity-8-qrpqfmxusqnyu5kj5ly7mu7riu69lrdpzcmkk13y0w.webp",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 23440,
+    "sha256": "c90ac97993b5a32b7eb616ed92260f24bdc392f2c519b714e1bf0032e53494e5",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/zz-newsletter-1.jpg",
+    "localPath": "public/media/services/zz-newsletter-1-qrppli863g2lpczke4n42u55crkxtz7muoehpn7b0w.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 337298,
+    "sha256": "1f266fc6bf3568b852d55bf5141f889799cb863832b06bf5842001e7f7f23c33",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/aaron-burden-25846-unsplash.jpg",
+    "localPath": "public/media/services/aaron-burden-25846-unsplash-qrafshacu3t27x5k4e7j97brix61faf3yckyms2wy4.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 137479,
+    "sha256": "49bbc44dd1c15081ccb0fcf9734c53b0903b12e445caec4123e9f57e0b2a6180",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/vanity-9.jpg",
+    "localPath": "public/media/services/vanity-9-qrppq7f7x6tt7em56oc3akh68lpah3kxcv3wgs36vk.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 320634,
+    "sha256": "ed148e5b2c02d6edf095269145c5d7c112a48b341a7279e1bf91b12256031290",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/zz-featured.jpg",
+    "localPath": "public/media/services/zz-featured-qrpplk3xir1f2mlqg27zuhlx7nlqjbkh8zp7wwopjg.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 464216,
+    "sha256": "ed99ba726fceaed937ec14d8138bcd435ef7bc87c1a53776940c4e9f036bc6cd",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/zz-about.jpg",
+    "localPath": "public/media/services/zz-about-qrppllzlwf5evbvpz9qeb8pvd1gz5fpweyqrxuxcsw.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 1310236,
+    "sha256": "04bf71b313b16cdf7f1ef14814b5d802ab1cc314df71d4c082fe301030493d0c",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/vanity-11.jpg",
+    "localPath": "public/media/services/vanity-11-150x150.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 21889,
+    "sha256": "4d62a0ea773aeb6ef9a75170d092974bc250712a547299f0a578dde7af67c965",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/ricardo-gomez-angel-223077-unsplash.jpg",
+    "localPath": "public/media/services/ricardo-gomez-angel-223077-unsplash-qrpplot4gx99u5rmisya0q095732sj13fcp8dot6a8.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 328071,
+    "sha256": "7c3f1861a0281b24a1f93a6bcc6053d2534dc6b182a1409f181e2f1d88e818d9",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/zz-newsletter-2.jpg",
+    "localPath": "public/media/services/zz-newsletter-2-qrpplqosulafbwc6dn2dtxy5dcpb17allw9m9ueybw.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 1073978,
+    "sha256": "30522f98d4608797610aaa14f1d978b3d765ed5937a9a27c740fb2255576fd10",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/caroline-grondin-95056-unsplash.jpg",
+    "localPath": "public/media/services/caroline-grondin-95056-unsplash-qrpplrmn1fbpniat85h0efplyqko8weby0x3r4dk5o.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 704509,
+    "sha256": "41e1a9ad66d384d99d62b58946812d381a38b0179136f0cdd97023e08da989e6",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/austin-johnson-275715-unsplash.jpg",
+    "localPath": "public/media/services/austin-johnson-275715-unsplash-qrafsi870xvrp0gwt3bb5go92x5wtpgss6z16gcwu8.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 266093,
+    "sha256": "2620dc9b14449775768494919d01670f648042bb532f2a3b19e64011ae052fa0",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/lion-animal-nature-predator-40835.jpeg",
+    "localPath": "public/media/services/lion-animal-nature-predator-40835-qrpplha6f9h2wfmzigzzqfo1wfj50fnkqqctjktodo.jpeg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 23595,
+    "sha256": "c32c669189f45b03ff22dcc3a0261948b40a775df20f499dc43b18522e3f2ba7",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/hamed-alishahi-1129786-unsplash.jpg",
+    "localPath": "public/media/gallery/hamed-alishahi-1129786-unsplash.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 99446,
+    "sha256": "b6589044a98fce19ca77950b9564e4e8763c28d0cb97ba68fafac0a8b57cdc34",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Kitchen-amy3-scaled.jpg",
+    "localPath": "public/media/gallery/Kitchen-amy3-scaled-qrhaagzmafqm2n31cf7auuz29zwniuefcrexyoz6nk.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 413438,
+    "sha256": "cdc01e831ebadbba91205eda21271b6810c2400fae8941fa298500aa18d9efc5",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Jeff-5-scaled.jpg",
+    "localPath": "public/media/gallery/Jeff-5-scaled-qrha9pqas8papy6mrlf4cjup1tn0bme7l0hv1o3lo0.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 410120,
+    "sha256": "7ce7aa97a1d2780ef51861a3081dce39d507cb8f863013a7a005db3741ea3e38",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/j4-1.jpg",
+    "localPath": "public/media/gallery/j4-1-qrha9k39n8hksaetoizcxl9xhiet1frtk8ky60bypc.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 204317,
+    "sha256": "8d61cfc5bbe49cab2015d64148a6c4c61d92163f725698f035f3274747825618",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/myrna14.jpg",
+    "localPath": "public/media/gallery/myrna14-qrhac47g8zzoe2p0qmsspy13p9srzrxikwij74jdrk.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 778440,
+    "sha256": "ab572953c4dc5223ff073980fe33b241ce6cd8d6f46ae98697b120c2973822b5",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/myrna4-scaled.jpg",
+    "localPath": "public/media/gallery/myrna4-scaled-qrhabo870tdswpc8bxw51k29lpzjcx62upfa1f72pc.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 679847,
+    "sha256": "e614ed7daff74256e7b35db233397d3ac9d2a96f0a222c62faa7db3f723f4906",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/myrna3-scaled.jpg",
+    "localPath": "public/media/gallery/myrna3-scaled-qrhabkgu9h8nm9hoxw9mrl0f86i2i4r5i6tc4bcne8.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 717499,
+    "sha256": "8912c076c24349d59f0a8cba62c3e7bcbdbda93dfa8d54eec4c6b50ea3cbf3be",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/myrna1-scaled.jpg",
+    "localPath": "public/media/gallery/myrna1-scaled-qrhabcy4qsyd1dsm5t0m7mwqh3j4sjxat5lga3nss0.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 588229,
+    "sha256": "ff36d25c2680adaa859238864e234c1eb7e1a95abc05227a2189eea38aa2da93",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/M3-scaled.jpg",
+    "localPath": "public/media/gallery/M3-scaled-qrhaarbudm4rmco0o1o74ad4t8hovijh26la8qjur4.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 469472,
+    "sha256": "9b3b043bea61aca402e889df7a76a6c773354f4ced8c0c077e449eea440e8101",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/m5-scaled.jpg",
+    "localPath": "public/media/gallery/m5-scaled-qrhaav374y9wwsik23ape9ez6rz5qayeep785uea28.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 570080,
+    "sha256": "501f74a1589a6c25cd211795eb43760d715904a3f37662c340bd5e4b36d54c34",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/murna9-scaled.jpg",
+    "localPath": "public/media/gallery/murna9-scaled-qrhab5ff84o2gi3jdprlnot1q0k72z3g44dkfvyy5s.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 646861,
+    "sha256": "17a166a5982d871cf3bf3c3abe21f2c27cd7a2eb7d0326d69778f6c8be635349",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/m2-scaled.jpg",
+    "localPath": "public/media/gallery/m2-scaled-qrhaapg5zy26z4qqz0uxzau7mgqyg4c0dxaba6mn3k.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 499191,
+    "sha256": "345793d7c19aeffa4e93a11d4c1f81578fc09df03acfdc6e3a6435ada9db0496",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/L1.jpg",
+    "localPath": "public/media/gallery/L1-qrhaahxgh9rwe91o6xlxfcqivds0qji5ow2ffyxshc.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 77109,
+    "sha256": "60216d65d78f6fff6b0f119f3217e3781776ece685605f1bbc7d312431f391bf",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/kitchen-amy-2-scaled.jpg",
+    "localPath": "public/media/gallery/kitchen-amy-2-scaled-qrhaae63pxmr3t74svzf5doohuajvr38cdghiv3d68.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 454569,
+    "sha256": "91bddf814357c705bed96fed66d2f385adc1897b6f8552e8182de045d6ab0054",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/K9.jpg",
+    "localPath": "public/media/gallery/K9-qrhaaaeqylhltdcleucwvemu4at30yoazuujlr8xv4.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 62608,
+    "sha256": "cd2d35715ad4244573f7f95b2e03b2a482f3bd19e050e198a8fb6b6b0d68c07a",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Jeff6-scaled.jpg",
+    "localPath": "public/media/gallery/Jeff6-scaled-qrhaa4rptl9vvpksbrx5gg22jzkvqs1wz2xmq3hawg.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 474668,
+    "sha256": "d894ce73a59f365b8f7de69312cd94b51517eff7f098c73319da62bb585a636d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/h7-scaled.jpg",
+    "localPath": "public/media/gallery/h7-scaled-qrha928c1dt4np4rkt9g47s676utz6sx5s6q1r2fzk.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 476967,
+    "sha256": "43066d5f6bd6e261ec4859ef1bb55220cff95117c8b66828e858776cc428ba47",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/h10-scaled.jpg",
+    "localPath": "public/media/gallery/h10-scaled-qrha9bmpxq5zvsr41xbpt5es51ki45u8j2pkuioi9c.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 607678,
+    "sha256": "21092e95f50acd80b7d01f8b1dd123e6ef1ad9fef4740dfcc499d3029f891a50",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/g5.jpg",
+    "localPath": "public/media/gallery/g5-qrha8eqdaiwylg2we13rvvpnck2nmr7mqjvl1u1ab4.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 74321,
+    "sha256": "faf904e7a682022957bae763780b20532f12341c4860248885e0a2f519ca12e0",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/flora2-1.jpg",
+    "localPath": "public/media/gallery/flora2-1-qrha893c5ip8nsb3ayo0gx4vs8ugckl8pryo669n5s.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 98827,
+    "sha256": "b8abdacda99c2c5834facf8ac35d336cb303458b6903916068c9b9fb1cf8c176",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Flora8.jpg",
+    "localPath": "public/media/gallery/Flora8-qrha8bwuq0t3mm6zuhvw6ef9kegjznwfq5x4m05gts.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 132678,
+    "sha256": "4504be3a8ca18378d40d3438e628db251deb465eae4ac88b675887c70dc306c4",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/L3.jpg",
+    "localPath": "public/media/gallery/L3-qrhaaivao3t6pv0b1g0jzuhzgrndy8lw10pwx8web4.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 99945,
+    "sha256": "96b017f2855dbbe3c96f1795f78922b54ad7f74a43c1c9158d5f9e710dc2097d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/L5.jpg",
+    "localPath": "public/media/gallery/L5-qrhaakqz1rvrd2xkqgtt4u0wnje4dmtcpa0vvstlyo.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 88754,
+    "sha256": "96b2c9a20716334617a3fc46ae5d4fe8f593676afe8b7071aa1eb729c07a73be",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Jeff3-scaled.jpg",
+    "localPath": "public/media/gallery/Jeff3-scaled-qrhaa1y79360wvovs8p9qyrortys3oqpyoz6a9lhf4.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 519149,
+    "sha256": "041d14ce55b98c3eb56ce81837f97996b39e90deb86f0ef670f3db90615b5150",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Jeff2-scaled.jpg",
+    "localPath": "public/media/gallery/Jeff2-scaled-qrha9z4ool25y1sz8phe1hhazocoglfiyb0pufpnxs.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 466639,
+    "sha256": "d1814d65131e5b76f5af54734f38670c00f7896b4d7b966ea9d89d5c4110857d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Flora4.jpg",
+    "localPath": "public/media/gallery/Flora4-qrha8az0j6rtb08czzh9lwnsz0l6ryspe19n4q6utc.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 99493,
+    "sha256": "19eb0aaf806079a78f7c2ddd00a63275d48b7636c08a9ba5d00a28de8a2d691f",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Vanity-8.webp",
+    "localPath": "public/media/gallery/Vanity-8-qrpqfmxu4mbudrhc2so76xh5w838netecua24hsyg4.webp",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 23440,
+    "sha256": "c90ac97993b5a32b7eb616ed92260f24bdc392f2c519b714e1bf0032e53494e5",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/36715c8ce4da9d521da45338573e8c1c.jpg",
+    "localPath": "public/media/gallery/36715c8ce4da9d521da45338573e8c1c-qragr7fj8hgixna4m4zbxgz1y2qvli4917a89mb338.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 77118,
+    "sha256": "9904decf7a361485cd870f2d73b5bb68137e03f3b129a15ec59b0cc8d63013e2",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/c1c1f257dec3e9231e666786ccb89d04.jpg",
+    "localPath": "public/media/gallery/c1c1f257dec3e9231e666786ccb89d04-qragxv4dn8kn67lyqil73ahlfbxh4bjsy5n1n6fp0k.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 58771,
+    "sha256": "9cb05874f415e8c09646f3b123126edb30e4aafd70e724e737f2661c6e01b5ef",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/vanity-9.jpg",
+    "localPath": "public/media/gallery/vanity-9-qrppq7f17zik9kf6ksxkqci7axfqe7uu6yv4oziesk.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 320634,
+    "sha256": "ed148e5b2c02d6edf095269145c5d7c112a48b341a7279e1bf91b12256031290",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/378a032a517d87ad21de440ad1e49599.jpg",
+    "localPath": "public/media/gallery/378a032a517d87ad21de440ad1e49599-qragr9b7m5j3kv7eb5sl2ghz4uhm0wbppgl7868aqs.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 86408,
+    "sha256": "46af4f10b89e9098036c600dfbd5e0743750882e26986c29f88f2c253164e325",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/vanity-10.png",
+    "localPath": "public/media/gallery/vanity-10-qrppq3nogndez4kn6rb2gdgcxdy9jffwug96rvnzhg.png",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 905875,
+    "sha256": "572a490e7c70fa8d206142a2023f12b1143d5b415703ac53d8e8cedef583fd3d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/24adb78caf934c7da8edca425668f1e2.jpg",
+    "localPath": "public/media/gallery/24adb78caf934c7da8edca425668f1e2-qragr5juutdyafcux462shg4rb0563wscxz9b2dvfo.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 68587,
+    "sha256": "e030241cd996a95db628f3d45ae3f3e7e9c5c9f4bab261f89e71e515fe78b6b8",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/0ea463ba07322b0805275547fb7aa7fb.jpg",
+    "localPath": "public/media/gallery/0ea463ba07322b0805275547fb7aa7fb-qragr3o6h5bdn7fl83ctnhx7kj9eqppboooacign48.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 60152,
+    "sha256": "30671c99db6f1555949f75cab61b173889249f173f2c3039a5a0f352569a942b",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/458f61cbe9a42d443cdfde46dbabfdad.jpg",
+    "localPath": "public/media/gallery/458f61cbe9a42d443cdfde46dbabfdad-qrodgrkmjf2zt7h9u8xy3qbi51tzw9cn0p124wd8j4.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 86641,
+    "sha256": "31ae5d8d4948cec483605b3ca0592671b2f138aae2c4dd38b1af2ae87e836852",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/503861149fc33748efc720344aa0b565.jpg",
+    "localPath": "public/media/gallery/503861149fc33748efc720344aa0b565-qrocwlx7zbhmu8rbjj9ymtfnjl6mtxbuwxe7na95oo.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 48955,
+    "sha256": "552f3bb86591f8af0af260d6a7edde78ea404feeeb111c96152f353f7664d163",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/j6-1.jpg",
+    "localPath": "public/media/gallery/j6-1-qro8eevsohgfgkcunfbidqw9e0mim5f9y4tygeqrn4.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 155031,
+    "sha256": "438c8c8bfc97daeb3bff8c679fef3b959b96cc9544ddc5927802e28aa5d1a0fd",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/kitchen-countertop-trends-in-2022.jpeg",
+    "localPath": "public/media/gallery/kitchen-countertop-trends-in-2022-qro0fxmlq9acz0hfhlcwg1ermcn8n44d86ygwfic1c.jpeg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 111541,
+    "sha256": "736a438b0dbea7e520ca2063d9db97791b0bc972c9512c043041507899021e02",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/hamed-alishahi-1129786-unsplash.jpg",
+    "localPath": "public/media/gallery/hamed-alishahi-1129786-unsplash-qqt0hxp28y42grghf5tewt2q3x62li4t5d47ohwa5s.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 99446,
+    "sha256": "b6589044a98fce19ca77950b9564e4e8763c28d0cb97ba68fafac0a8b57cdc34",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/kyle-head-364351-unsplash-1.jpg",
+    "localPath": "public/media/gallery/kyle-head-364351-unsplash-1-qqt0i57rrmed1n5k792fgr6ev050b2ynuec3ipl4s0.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 75824,
+    "sha256": "d4dd2246426ae0369b19c21118891035b658ef6111720dc49b04d0db9ba72833",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/aaron-huber-401200-unsplash.jpg",
+    "localPath": "public/media/gallery/aaron-huber-401200-unsplash-qqt0i0iktg7xflcdyp1amad3w2s68lg05r2o4bs3n4.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 72007,
+    "sha256": "8a1214f6a20c80849a5394e6cd4b1ca355d27e30f7689a8c24e595d0d59d61eb",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-1.avif",
+    "localPath": "public/media/gallery/img-1-qrt57lgv10wtv8kngb6wn0jxe1g5ytrc2v4iyr0tss.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 39087,
+    "sha256": "d1f6911a31ad2c5c359f5d02101250a67c4304e4c99d38c1551bf087fab380ac",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/08/phone.png",
+    "localPath": "public/media/services/phone.png",
+    "pageSource": "https://website.kitchenflooringdepot.com/contact-us/",
+    "bytes": 3497,
+    "sha256": "20707fa8165fd88143e9a77ca82ea3de9bd0e087e2c3c97c898e0f5c187abb05",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/08/location.png",
+    "localPath": "public/media/services/location.png",
+    "pageSource": "https://website.kitchenflooringdepot.com/contact-us/",
+    "bytes": 3336,
+    "sha256": "453322909f4c9e68e2c978dd1467e2196a15258caad0017bd304cd1e0a646111",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/a56add0a2c9f5bc17bbd3c95010b7787.jpg",
+    "localPath": "public/media/portfolio/a56add0a2c9f5bc17bbd3c95010b7787.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 66314,
+    "sha256": "05614a2af31b7cd8e2f20da066a0bcffa2079c51466d4da541276a72dab718d1",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/h5-1-scaled.jpg",
+    "localPath": "public/media/portfolio/h5-1-scaled-qro8lq2n1y8kwsk01f9rcvhodecpv9onkml8ybus8g.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 522679,
+    "sha256": "4c3dfe0e71be4655c6509567150a3924824195c64a07825173149c1c7407039b",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/h1-1-scaled.jpg",
+    "localPath": "public/media/portfolio/h1-1-scaled-qro8lzh0yalg4w6cijc11t4ab92e08pyxx43r3gui8.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 478273,
+    "sha256": "700659651540019ec80d6b4a9e19a156138d70b206b9a8ebac003d8940a44178",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/H2-1-scaled.jpg",
+    "localPath": "public/media/portfolio/H2-1-scaled-qro8m9t91gzlolrbu5sxb8icuhnfcwv0ncag151ils.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 576183,
+    "sha256": "0dd80e97202525168b0d539729b31499ee6ad25e2fc1c5f8c6fd8504002abb43",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/h3-1-scaled.jpg",
+    "localPath": "public/media/portfolio/h3-1-scaled-qro8mhbyk59w9hgem91xv6m1lkmd2hovcdibvcqd80.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 589688,
+    "sha256": "a0a975926d0ef16843d50e956df51151b0df30baa05bca5b7f889a9e419b0f0e",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/h10-1-scaled.jpg",
+    "localPath": "public/media/portfolio/h10-1-scaled-qro8my91z5x22grtvgd842ccaiayx1k1ep92ic1a40.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 607678,
+    "sha256": "21092e95f50acd80b7d01f8b1dd123e6ef1ad9fef4740dfcc499d3029f891a50",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/h6-2-scaled.jpg",
+    "localPath": "public/media/portfolio/h6-2-scaled-qro8n9j496chxsbg1l8qxzhvf4rdhestg92w9nkk1c.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 494838,
+    "sha256": "de3ce516adeacb8ecd95283b6383f82d6062bb53007f842541c0218ab6df767d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/h7-1-scaled.jpg",
+    "localPath": "public/media/portfolio/h7-1-scaled-qro8njvcccqnhhwfd7pn7evxydceu2xv5o98jp584w.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 476967,
+    "sha256": "43066d5f6bd6e261ec4859ef1bb55220cff95117c8b66828e858776cc428ba47",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/h8-1-scaled.jpg",
+    "localPath": "public/media/portfolio/h8-1-scaled-qro8nqg7o6znqrmvask16v8642fzbynziktmwmvgxc.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 465072,
+    "sha256": "f144f98c5ee5457781cc3a6d505977e8612cec3ef0a5547752e57d672c421ec6",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/h9-1-scaled.jpg",
+    "localPath": "public/media/portfolio/h9-1-scaled-qro8nw38t77dofeoduzsltsxodo6m5adjcqjsan3w0.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 376401,
+    "sha256": "a74efee0f1fa54f547203234a3e0f418e88b0f46363c6e51092120ed7ade5dc1",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Jeff3-1-scaled.jpg",
+    "localPath": "public/media/portfolio/Jeff3-1-scaled-qro8q7qvpgdwdq15td5l9qoyjo7un7ihiusrhx72i8.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 519149,
+    "sha256": "041d14ce55b98c3eb56ce81837f97996b39e90deb86f0ef670f3db90615b5150",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Jeff6-1-scaled.jpg",
+    "localPath": "public/media/portfolio/Jeff6-1-scaled-qro8qf9l84o6ylq8lgeltosnar6scscc7w0nc4vx4g.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 474668,
+    "sha256": "d894ce73a59f365b8f7de69312cd94b51517eff7f098c73319da62bb585a636d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Jeff-7-1-scaled.jpg",
+    "localPath": "public/media/portfolio/Jeff-7-1-scaled-qro8qsfbvt67h574gm3dslh3m5dxcjskxp5g20cepc.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 546073,
+    "sha256": "97ae657a3b7c910f7a00ddc0b7d384c4341f389067ce52f50c2bf6bb71bcadef",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Jeff1-1-scaled.jpg",
+    "localPath": "public/media/portfolio/Jeff1-1-scaled-qro8r7gqx5qsmwla0slewhoh4bbsrpgabrl7qfq3xs.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 502636,
+    "sha256": "df909903b485030fe2e378e949d1ae3ed7ecc15925f17841158de775178a0bf8",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Jeff2-1-scaled.jpg",
+    "localPath": "public/media/portfolio/Jeff2-1-scaled-qro8re1m8zzsw6bpydfsvy0pa0fd9l6eoo5m3dgcq8.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 466639,
+    "sha256": "d1814d65131e5b76f5af54734f38670c00f7896b4d7b966ea9d89d5c4110857d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Jeff-5-1-scaled.jpg",
+    "localPath": "public/media/portfolio/Jeff-5-1-scaled-qro8rkmhku8t5g25vya6vecxfpixrgwj1kq0gb6lio.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 410120,
+    "sha256": "7ce7aa97a1d2780ef51861a3081dce39d507cb8f863013a7a005db3741ea3e38",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/7-1.jpg",
+    "localPath": "public/media/portfolio/7-1-qro8tcjihkob2xhbipwtky89twrwavy9yd3134jtrk.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 125826,
+    "sha256": "99488130c75167a9888b62677663995c8c3d46e572310606122dde8dd8a6f157",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/2-2.jpg",
+    "localPath": "public/media/portfolio/2-2-qro8tdhcoeplejfyd8bg5fzqfan9il20ahqikeiflc.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 155876,
+    "sha256": "0c2b3725b45cd14c6dfc58ef40d3f4f42323136aad64e03ab6f48d712d23ff1a",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/3-2.jpg",
+    "localPath": "public/media/portfolio/3-2-qro8tef6v8qvq5el7qq2pxr70oimqa5qmme01oh1f4.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 110362,
+    "sha256": "5c3f0547b75c71ae10b966fe3b722007b6b98255fd83a7f3a1c6d358aeace6c7",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/5-1.jpg",
+    "localPath": "public/media/portfolio/5-1-qro8tfd122s61rd8294pafinm2dzxz9gyr1hiyfn8w.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 162622,
+    "sha256": "972bbca89f59b1744e0ce98f95ae0bca8f2b6775d00f240aa72794f49b693fe0",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/6-1.jpg",
+    "localPath": "public/media/portfolio/6-1-qro8tfd122s61rd8294pafinm2dzxz9gyr1hiyfn8w.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 136815,
+    "sha256": "40a60c4dc88b7369b46445ed6785b99b58379c0ba689c8b4e21925fe6e2a3559",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/2-scaled.jpg",
+    "localPath": "public/media/portfolio/2-scaled-qrfjkmrz2rp97xjfmape4l9m7u9ric67jswkhkndrk.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 636533,
+    "sha256": "f2ccf5dbf7a653f13eb443b26131aa6cb4fd87f1bc5b87cea4163445e89b6ab8",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/4-scaled.jpg",
+    "localPath": "public/media/portfolio/4-scaled-qrfjkrh60xvotzcluuqiz22x6rmlktov8g5zvygewg.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 537278,
+    "sha256": "bd4b1ef33c41e81c7dd2ff04ee8005b028f1abaa1d97bd78f2aaf4d921084acf",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/L3.jpg",
+    "localPath": "public/media/portfolio/L3-qrhaaivbvyl1v9tr4a79ktic49etc3ufbbt91ounao.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 99945,
+    "sha256": "96b017f2855dbbe3c96f1795f78922b54ad7f74a43c1c9158d5f9e710dc2097d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/L2.jpg",
+    "localPath": "public/media/portfolio/L2-qrhaaivbvyl1v9tr4a79ktic49etc3ufbbt91ounao.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 73919,
+    "sha256": "3ce45e3dfc6a18ed3f6bef743efb90956166be8585d5d6b7e84622e6971149ea",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/L1.jpg",
+    "localPath": "public/media/portfolio/L1-qrhaahxhp4jrjnv49rsn0bqvivjg4eqoz75rkew1gw.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 77109,
+    "sha256": "60216d65d78f6fff6b0f119f3217e3781776ece685605f1bbc7d312431f391bf",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/L4-1.jpg",
+    "localPath": "public/media/portfolio/L4-1-qro7uc1xwqqsluc8z3247ab587cokry8528wj2grjk.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 75308,
+    "sha256": "945881ef44a56104841e4ee7405c143129bdfb33bc06338d54f2c1585ad96cdd",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/L5-1.jpg",
+    "localPath": "public/media/portfolio/L5-1-qro7uhoz1qyiji4225hvm8vwsikvuykm5u5teq8ei8.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 88754,
+    "sha256": "96b2c9a20716334617a3fc46ae5d4fe8f593676afe8b7071aa1eb729c07a73be",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Flora4-1.jpg",
+    "localPath": "public/media/portfolio/Flora4-1.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 99493,
+    "sha256": "19eb0aaf806079a78f7c2ddd00a63275d48b7636c08a9ba5d00a28de8a2d691f",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Flora1-1.jpg",
+    "localPath": "public/media/portfolio/Flora1-1.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 98192,
+    "sha256": "78a8cf95f5ad9ba54d4fa8615be8fe84aa39a32260003ce2b5a3ed397805571d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/flora2-2.jpg",
+    "localPath": "public/media/portfolio/flora2-2.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 98827,
+    "sha256": "b8abdacda99c2c5834facf8ac35d336cb303458b6903916068c9b9fb1cf8c176",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Flora-5-2.jpg",
+    "localPath": "public/media/portfolio/Flora-5-2.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 105082,
+    "sha256": "af09d3effcd218052d5c6750c45fd894d5cd9cdd9246c9d22069f1301d4ef2c0",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Flora7-1.jpg",
+    "localPath": "public/media/portfolio/Flora7-1.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 96897,
+    "sha256": "3f27d31697a198574f15a39ba02b58c28744af6a43843a435c24d6929c59aa71",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/m5-1-scaled.jpg",
+    "localPath": "public/media/portfolio/m5-1-scaled-qrps3m1f5rdetvpq2nly8dz3oynwc52vy8dnjmnfrc.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 570080,
+    "sha256": "501f74a1589a6c25cd211795eb43760d715904a3f37662c340bd5e4b36d54c34",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/m1-1-scaled.jpg",
+    "localPath": "public/media/portfolio/m1-1-scaled-qrps4rebigy10q1nd5hja3jdtx01qtn2rx30nsy45k.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 576380,
+    "sha256": "14678a33dbe29cd786ec56eaae06476c06c8b58bf89bcc0cbea4e895ec819612",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/m2-1-scaled.jpg",
+    "localPath": "public/media/portfolio/m2-1-scaled-qrps4u7u2z1vzjxjwopezktrm2m5dwy9sb1h3mtxmw.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 499191,
+    "sha256": "345793d7c19aeffa4e93a11d4c1f81578fc09df03acfdc6e3a6435ada9db0496",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/M3-1-scaled.jpg",
+    "localPath": "public/media/portfolio/M3-1-scaled-qrps4x1cnh5qydtgg7xap245e889109gsozxjgpr48.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 469472,
+    "sha256": "9b3b043bea61aca402e889df7a76a6c773354f4ced8c0c077e449eea440e8101",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/j8-1.jpg",
+    "localPath": "public/media/portfolio/j8-1-qro8e7d4dny013h7y697ersxaff0aftyjepeqn060g.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 138446,
+    "sha256": "a797d066d467b8038c1d5fc0fc8cfa2c5c03315ffec8c4ba9af3763a88ba328d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/j1-1.jpg",
+    "localPath": "public/media/portfolio/j1-1-qro8e8aykhzacpfusontz9kdvtadi4xovjcw7wyru8.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 155031,
+    "sha256": "438c8c8bfc97daeb3bff8c679fef3b959b96cc9544ddc5927802e28aa5d1a0fd",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/j3-1.jpg",
+    "localPath": "public/media/portfolio/j3-1-qro8ea6my61uzxd4hph3493b2l13xj55jsnv6gvzhs.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 138446,
+    "sha256": "a797d066d467b8038c1d5fc0fc8cfa2c5c03315ffec8c4ba9af3763a88ba328d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/j4-2.jpg",
+    "localPath": "public/media/portfolio/j4-2-qro8ec2bbu4fn5ae6qac98m89crucxcm81yu50t75c.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 204317,
+    "sha256": "8d61cfc5bbe49cab2015d64148a6c4c61d92163f725698f035f3274747825618",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/j5-1.jpg",
+    "localPath": "public/media/portfolio/j5-1-qro8edxzpi70ad7nvr3le855g4iksbk2wb9t3kqesw.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 197108,
+    "sha256": "97998168c73df06230e9fc3ba93287960a468a34b33e0385952884d1e557c192",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/j6-1.jpg",
+    "localPath": "public/media/portfolio/j6-1-qro8eevtwc8alz6aq9i7ypwm1idy00nt8fxakup0mo.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 155031,
+    "sha256": "438c8c8bfc97daeb3bff8c679fef3b959b96cc9544ddc5927802e28aa5d1a0fd",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/j7-1.jpg",
+    "localPath": "public/media/portfolio/j7-1-qro8efto369kxl4xkrwuj7o2mw9b7prjkkks24nmgg.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 129794,
+    "sha256": "d35db7fca174993b73651642f85558e4f3e226d20b444155b28d1051d03f7a11",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/g5-1.jpg",
+    "localPath": "public/media/portfolio/g5-1-qro8fwgmpw9mzr0h1enyeudvwh1v6rkift3yxmhks0.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 74321,
+    "sha256": "faf904e7a682022957bae763780b20532f12341c4860248885e0a2f519ca12e0",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/g9-1.jpg",
+    "localPath": "public/media/portfolio/g9-1-qro8fvisj28co51u6w9bucmfb36hz2gs3oghgciyy8.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 77692,
+    "sha256": "a2a8acc6e3aa0f12622e7dc41f395bf9c14845108219ad50bf175764fe3da462",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/g4-2.jpg",
+    "localPath": "public/media/portfolio/g4-2-qro8fvisj28co51u6w9bucmfb36hz2gs3oghgciyy8.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 80057,
+    "sha256": "3f7cd6725cd54a039ad39bba3cf08796f6e873b83eff3105971e5a84c94b6d41",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/g6-1.jpg",
+    "localPath": "public/media/portfolio/g6-1-qro8fxegwqaxbcz3vx2kzc5chux8ego8rxrgewg6ls.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 80620,
+    "sha256": "53a711a9a4d925890ff26ce11a910b98f7cd4c690dfb44831dcb81e4f482289c",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/g7-1.jpg",
+    "localPath": "public/media/portfolio/g7-1-qro8fycb3kc7myxqqfh7jtwt38slm5rz42exw6esfk.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 78386,
+    "sha256": "a79d1682ead1c80591e4709ed807fd342c0b937afd6b90f46bb7dcd6f8c26c59",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/g8-1.jpg",
+    "localPath": "public/media/portfolio/g8-1-qro8fza5aedhykwdkxvu4bo9omnytuvpg72fdgde9c.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 69571,
+    "sha256": "5cde6d79c0d5b3916d279f56c471594035a80d287cf1d56b726abf92706540f2",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/g3-1.jpg",
+    "localPath": "public/media/portfolio/g3-1-qro8gnpy83aycfwvm8g4x5i94nbidzkq7k11und5rk.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 81694,
+    "sha256": "e6f30bb00c6c5bec2bf2036335881a1d118129c62dec13ef2729b9ab3ad7b152",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/g1-1.jpg",
+    "localPath": "public/media/portfolio/g1-1-qro8gonsexc8o1vigqurhn9pq16vloogjoojbxbrlc.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 86250,
+    "sha256": "d517ce8a8a726f590ccf0d38a74a4cf1bde5701d68834c12c71081b66b791664",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/g2-1.jpg",
+    "localPath": "public/media/portfolio/g2-1-qro8gqjgsletb9ss5ro0mmsmwsxm12vx7xziah8z8w.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 78386,
+    "sha256": "a79d1682ead1c80591e4709ed807fd342c0b937afd6b90f46bb7dcd6f8c26c59",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Ali-1-1.jpg",
+    "localPath": "public/media/portfolio/Ali-1-1-qro8ictgkbmlb3g4pguvx837qoydabba3yfm1mukj4.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 165850,
+    "sha256": "b73036a1659913aa939f77fe7a359d7ca56f7b8ae1d041a6fe6a6f2962c61304",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Ali-2-1.jpg",
+    "localPath": "public/media/portfolio/Ali-2-1-qro8idrar5nvmperjz9ihpuoc2tqi0f0g333iwt6cw.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 166035,
+    "sha256": "1f664559511382cc50da2c86b7cfdc4316f222e95362c4cb6abc00de24506f37",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Ali-3-1.jpg",
+    "localPath": "public/media/portfolio/Ali-3-1-qro8ifmz4tqg9xc1902rmpdliukgxemh4ce2hgqe0g.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 167130,
+    "sha256": "ba5ed1e688b80df7cfaddca67b3b60fc32d21a3cc301ddafe680a4a7921547d0",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Ali-4-1.jpg",
+    "localPath": "public/media/portfolio/Ali-4-1-qro8ihiniht0x59ay0w0rowipmb7cstxslp1g0nlo0.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 173023,
+    "sha256": "72719ee7eb8d7f1b8990e6ea5264b0489dbc2dcefe15b802838c1b4803433985",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Ali-5-1.jpg",
+    "localPath": "public/media/portfolio/Ali-5-1-qro8iighpbub8r7xsjanc6nzb06kkhxo4qcixam7hs.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 179413,
+    "sha256": "79f35164116e745be697db9905f15e52f8ad7b585613b88919f54e8b73eae452",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/c5ab400b24caa9e0d0548de2ac451088.jpg",
+    "localPath": "public/media/services/c5ab400b24caa9e0d0548de2ac451088-qqwd9q66f9vnv5d6pdam4g0f3yk60olvpyjv0ibv6o.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/services/",
+    "bytes": 49084,
+    "sha256": "71e19970c713fe96c6457b1f997e1820b524cd5bf11b8e50c59ff94b007ed207",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/5c4fb30025054a3cfe0b5008598cc463.jpg",
+    "localPath": "public/media/services/5c4fb30025054a3cfe0b5008598cc463-qqwe43ch7lg4xn9adztq6a5hz2w1oo5pk99k5bb068.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/services/",
+    "bytes": 71420,
+    "sha256": "4b664ec7237ee239c0e0fcfa2c2e99443460e785f8b29255d375b560f1756a0d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/kitchenFlooringLogoKFD21-1920w-300x141.jpg",
+    "localPath": "public/media/logo/kitchenFlooringLogoKFD21-1920w-300x141.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 9373,
+    "sha256": "fa9fde05748af0cf6e2728a21507fae57170dcd07b18a57bbb9456ee2bcdc07a",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/kitchenFlooringLogoKFD21-1920w-768x361.jpg",
+    "localPath": "public/media/logo/kitchenFlooringLogoKFD21-1920w-768x361.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 33303,
+    "sha256": "845c468e1bc9b8074d2d886c334d6bb536e16468aa81238ca654e9dff05279d8",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/rune-enstad-1090369-unsplash.jpg",
+    "localPath": "public/media/hero/rune-enstad-1090369-unsplash-300x200.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 92497,
+    "sha256": "834961b9f431b3588363ea8ac12ae31b52213de5ef84db04f817270aee7cdc3e",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/rune-enstad-1090369-unsplash.jpg",
+    "localPath": "public/media/hero/rune-enstad-1090369-unsplash-768x512.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 92497,
+    "sha256": "834961b9f431b3588363ea8ac12ae31b52213de5ef84db04f817270aee7cdc3e",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/84fef3e77b974e1f037902bb436b5b30.jpg",
+    "localPath": "public/media/hero/84fef3e77b974e1f037902bb436b5b30-248x300.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 39351,
+    "sha256": "7f01205db74226cc4143ade6bd8bba2dd3615e89349f8dc03b7ac34d7e2c2bc9",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/d5ac4564cd551134f12b999f0409e54a.jpg",
+    "localPath": "public/media/hero/d5ac4564cd551134f12b999f0409e54a-200x300.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 62475,
+    "sha256": "f16494659e9a2414b2b7b92c4e1a8a5b11ced8c32d652970a7da4d7f857513d2",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/9db1e056017df13b120ff25a3d823610.jpg",
+    "localPath": "public/media/hero/9db1e056017df13b120ff25a3d823610-169x300.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 88266,
+    "sha256": "364b644fe6141b3d46f01b9c9fff5700dfe5bcd6ccbeec9e12b350b539cbad49",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/4c57ba8c4c5e7245bdb58c5e9e8d1170.jpg",
+    "localPath": "public/media/hero/4c57ba8c4c5e7245bdb58c5e9e8d1170-240x300.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 30229,
+    "sha256": "d33c695c2387dc3855ca2d9ae426c2bc810be78c6e2133f3f112608676c5439c",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/c47f5d4458c9a2b161a19593344938a1.jpg",
+    "localPath": "public/media/hero/c47f5d4458c9a2b161a19593344938a1-240x300.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/",
+    "bytes": 28027,
+    "sha256": "b6798d897a0f7e6e16fcefcaa18841512e5833ab91798a3cfb0ad46acf2bc8d4",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/aaron-huber-401200-unsplash.jpg",
+    "localPath": "public/media/services/aaron-huber-401200-unsplash-300x200.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/cabinets/",
+    "bytes": 72007,
+    "sha256": "8a1214f6a20c80849a5394e6cd4b1ca355d27e30f7689a8c24e595d0d59d61eb",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/aaron-huber-401200-unsplash.jpg",
+    "localPath": "public/media/services/aaron-huber-401200-unsplash-768x512.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/cabinets/",
+    "bytes": 72007,
+    "sha256": "8a1214f6a20c80849a5394e6cd4b1ca355d27e30f7689a8c24e595d0d59d61eb",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/loewe-technologies-1105956-unsplash.jpg",
+    "localPath": "public/media/services/loewe-technologies-1105956-unsplash-300x200.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/cabinets/",
+    "bytes": 56464,
+    "sha256": "6cfe11447611d905df7ba1ed4316e8c4df026cf04f251a2276cfdcc92bd73a38",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/loewe-technologies-1105956-unsplash.jpg",
+    "localPath": "public/media/services/loewe-technologies-1105956-unsplash-768x512.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/cabinets/",
+    "bytes": 56464,
+    "sha256": "6cfe11447611d905df7ba1ed4316e8c4df026cf04f251a2276cfdcc92bd73a38",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/h6.jpg",
+    "localPath": "public/media/services/h6-300x225.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/cabinets/",
+    "bytes": 2365296,
+    "sha256": "2db6ec08413b30c67a42751065d7339d94bae8ffdb931d23b4b7725fd47e349a",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/h6.jpg",
+    "localPath": "public/media/services/h6-768x576.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/cabinets/",
+    "bytes": 2365296,
+    "sha256": "2db6ec08413b30c67a42751065d7339d94bae8ffdb931d23b4b7725fd47e349a",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/h6.jpg",
+    "localPath": "public/media/services/h6-1536x1152.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/cabinets/",
+    "bytes": 2365296,
+    "sha256": "2db6ec08413b30c67a42751065d7339d94bae8ffdb931d23b4b7725fd47e349a",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/h6.jpg",
+    "localPath": "public/media/services/h6-2048x1536.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/cabinets/",
+    "bytes": 2365296,
+    "sha256": "2db6ec08413b30c67a42751065d7339d94bae8ffdb931d23b4b7725fd47e349a",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/leo-kitchor-home4-banner4-img2.jpg",
+    "localPath": "public/media/services/leo-kitchor-home4-banner4-img2-300x214.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+    "bytes": 57715,
+    "sha256": "196e7a2b5614043cc9ba767dc571ad11abd852baabdb11a4f1cff9595584139b",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/leo-kitchor-home4-banner4-img1.jpg",
+    "localPath": "public/media/services/leo-kitchor-home4-banner4-img1-300x214.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+    "bytes": 27567,
+    "sha256": "371228244770e303a194a989cd6e3a0480bcb196453e80d93d2a4e2b54c758a3",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/ceramic-porcelain-tile_silk-light-grey-matte-6de900f0f8347293d4adac1743d3f12f_fb3761a9-5d27-4c0a-8926-38996d4c772e.webp",
+    "localPath": "public/media/services/ceramic-porcelain-tile_silk-light-grey-matte-6de900f0f8347293d4adac1743d3f12f_fb3761a9-5d27-4c0a-8926-38996d4c772e-300x212.webp",
+    "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+    "bytes": 182646,
+    "sha256": "16f026f5dbe93995b919f1844c229cc57057936aa48f11bd1d1b1dd035aea214",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/ceramic-porcelain-tile_silk-light-grey-matte-6de900f0f8347293d4adac1743d3f12f_fb3761a9-5d27-4c0a-8926-38996d4c772e.webp",
+    "localPath": "public/media/services/ceramic-porcelain-tile_silk-light-grey-matte-6de900f0f8347293d4adac1743d3f12f_fb3761a9-5d27-4c0a-8926-38996d4c772e-768x544.webp",
+    "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+    "bytes": 182646,
+    "sha256": "16f026f5dbe93995b919f1844c229cc57057936aa48f11bd1d1b1dd035aea214",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/ceramic-porcelain-tile_silk-light-grey-matte-6de900f0f8347293d4adac1743d3f12f_fb3761a9-5d27-4c0a-8926-38996d4c772e.webp",
+    "localPath": "public/media/services/ceramic-porcelain-tile_silk-light-grey-matte-6de900f0f8347293d4adac1743d3f12f_fb3761a9-5d27-4c0a-8926-38996d4c772e.webp",
+    "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+    "bytes": 182646,
+    "sha256": "16f026f5dbe93995b919f1844c229cc57057936aa48f11bd1d1b1dd035aea214",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/flora2.jpg",
+    "localPath": "public/media/services/flora2-300x225.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+    "bytes": 98827,
+    "sha256": "b8abdacda99c2c5834facf8ac35d336cb303458b6903916068c9b9fb1cf8c176",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/laminate-vs-vinyl-feature-pic-1_2048x.webp",
+    "localPath": "public/media/services/laminate-vs-vinyl-feature-pic-1_2048x-300x209.webp",
+    "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+    "bytes": 435418,
+    "sha256": "f6f2d80866cb49d54fd2451d65ce598e03a8576211f32fc094a2758076271181",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/laminate-vs-vinyl-feature-pic-1_2048x.webp",
+    "localPath": "public/media/services/laminate-vs-vinyl-feature-pic-1_2048x-768x535.webp",
+    "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+    "bytes": 435418,
+    "sha256": "f6f2d80866cb49d54fd2451d65ce598e03a8576211f32fc094a2758076271181",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/laminate-vs-vinyl-feature-pic-1_2048x.webp",
+    "localPath": "public/media/services/laminate-vs-vinyl-feature-pic-1_2048x-1536x1070.webp",
+    "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+    "bytes": 435418,
+    "sha256": "f6f2d80866cb49d54fd2451d65ce598e03a8576211f32fc094a2758076271181",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/laminate-vs-vinyl-feature-pic-1_2048x.webp",
+    "localPath": "public/media/services/laminate-vs-vinyl-feature-pic-1_2048x.webp",
+    "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+    "bytes": 435418,
+    "sha256": "f6f2d80866cb49d54fd2451d65ce598e03a8576211f32fc094a2758076271181",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/503861149fc33748efc720344aa0b565.jpg",
+    "localPath": "public/media/services/503861149fc33748efc720344aa0b565-300x300.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 48955,
+    "sha256": "552f3bb86591f8af0af260d6a7edde78ea404feeeb111c96152f353f7664d163",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/503861149fc33748efc720344aa0b565.jpg",
+    "localPath": "public/media/services/503861149fc33748efc720344aa0b565-150x150.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 48955,
+    "sha256": "552f3bb86591f8af0af260d6a7edde78ea404feeeb111c96152f353f7664d163",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-1.avif",
+    "localPath": "public/media/services/img-1-300x253.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 39087,
+    "sha256": "d1f6911a31ad2c5c359f5d02101250a67c4304e4c99d38c1551bf087fab380ac",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-1.2.avif",
+    "localPath": "public/media/services/img-1.2-300x253.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 34703,
+    "sha256": "8ec27b2ac5c9d103a7dc043447951e74e77ff39d155bc7bf313700458b650a6d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-1.3.avif",
+    "localPath": "public/media/services/img-1.3-300x253.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 45520,
+    "sha256": "0b2c3a1194f60b665e783581c6e97b63161ca5d8b8c9d5e3a4e52b009e3b0e3b",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-3.1.avif",
+    "localPath": "public/media/services/img-3.1-300x253.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 40468,
+    "sha256": "da46fdad9a361fae77e947fc6c8dae6ea472ab4167a45b69ce5042b7693212f0",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-3.3.avif",
+    "localPath": "public/media/services/img-3.3-300x253.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 58101,
+    "sha256": "7ffa081af8d8a1cbe0db74cb92586fa6917e10887a5d51898f8ea3f1f744767b",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-4.1.avif",
+    "localPath": "public/media/services/img-4.1-300x253.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 47724,
+    "sha256": "05600a71edee737ff2323cc2bfc9246ee42f6c8b9d742f7854e65366c7875f46",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-5.1.avif",
+    "localPath": "public/media/services/img-5.1-300x253.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 47443,
+    "sha256": "f095bc93d04d46dbaf7ce5681f861b7ffddd43f18fefae4a8bcd76cd5466abeb",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-4.3.avif",
+    "localPath": "public/media/services/img-4.3-300x253.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 40214,
+    "sha256": "5c62c65975b1cbba1c51b3a749c367c77ff485bba4b6118afcea46767b84cd5a",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-6.1.avif",
+    "localPath": "public/media/services/img-6.1-300x253.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 29250,
+    "sha256": "c6e63c5c2c54a285a4a0055503bdbe9150488e31c05d439c247e4cb3c902f8b7",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-6.2.avif",
+    "localPath": "public/media/services/img-6.2-300x253.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 29844,
+    "sha256": "d7c57bc87c9f44b84abce04affe90edca4b16df48b8a0c94a22cb10e11b6ca13",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-6.3.avif",
+    "localPath": "public/media/services/img-6.3-300x253.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 26212,
+    "sha256": "75b83b7590124e6c2b3ace8950b0c406e6ef90e591d71f2d7bca8e8dcad450e2",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-8.2.avif",
+    "localPath": "public/media/services/img-8.2-300x253.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 34094,
+    "sha256": "a014d7fc9374aa44734fea81d13931ca60b62b5bf150fef4566494c252752ea1",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-8.3.avif",
+    "localPath": "public/media/services/img-8.3-300x253.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 43929,
+    "sha256": "098e409b05d5f01cae5d888817f664b2b3e69a301cb56808eaa676c9bae7b115",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-7.1.avif",
+    "localPath": "public/media/services/img-7.1-300x253.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 25155,
+    "sha256": "5e77abc1485036cff3aec3d228fe0dda877179dc5ce91075e43f0016663e1ccb",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-7.3.avif",
+    "localPath": "public/media/services/img-7.3-300x253.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+    "bytes": 27597,
+    "sha256": "22cc23b347e0aa2017aced4ab1045eb2e95e44f52dce434f6e76d9033e1070d9",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Vanity-8.webp",
+    "localPath": "public/media/services/Vanity-8-qrpqfmxusqnyu5kj5ly7mu7riu69lrdpzcmkt7jobk.webp",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 23440,
+    "sha256": "c90ac97993b5a32b7eb616ed92260f24bdc392f2c519b714e1bf0032e53494e5",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/vanity-11.jpg",
+    "localPath": "public/media/services/vanity-11-qrppq4linhgowt8a7j3avqmuv8ec7qgs9s53cigzyo.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 21889,
+    "sha256": "4d62a0ea773aeb6ef9a75170d092974bc250712a547299f0a578dde7af67c965",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/austin-johnson-275715-unsplash.jpg",
+    "localPath": "public/media/services/austin-johnson-275715-unsplash-qrafsi870xvrp0gwt3bb5go92x5wtpgss6z16gcyds.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 266093,
+    "sha256": "2620dc9b14449775768494919d01670f648042bb532f2a3b19e64011ae052fa0",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/lion-animal-nature-predator-40835.jpeg",
+    "localPath": "public/media/services/lion-animal-nature-predator-40835-qrpplha6f9h2wfmzigzzqfo1wfj50fnkqqctjktpjc.jpeg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 23595,
+    "sha256": "c32c669189f45b03ff22dcc3a0261948b40a775df20f499dc43b18522e3f2ba7",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/0ea463ba07322b0805275547fb7aa7fb.jpg",
+    "localPath": "public/media/services/0ea463ba07322b0805275547fb7aa7fb-300x300.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 60152,
+    "sha256": "30671c99db6f1555949f75cab61b173889249f173f2c3039a5a0f352569a942b",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/0ea463ba07322b0805275547fb7aa7fb.jpg",
+    "localPath": "public/media/services/0ea463ba07322b0805275547fb7aa7fb-150x150.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "bytes": 60152,
+    "sha256": "30671c99db6f1555949f75cab61b173889249f173f2c3039a5a0f352569a942b",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/urban-crush.jpg",
+    "localPath": "public/media/services/urban-crush-300x244.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 250673,
+    "sha256": "73f5f6ca4e308ce38c0f18efc250420440decb8e0097529f85cc71fef6d0892c",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/urban-crush.jpg",
+    "localPath": "public/media/services/urban-crush-768x624.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 250673,
+    "sha256": "73f5f6ca4e308ce38c0f18efc250420440decb8e0097529f85cc71fef6d0892c",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/urban-crush.jpg",
+    "localPath": "public/media/services/urban-crush-1536x1248.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 250673,
+    "sha256": "73f5f6ca4e308ce38c0f18efc250420440decb8e0097529f85cc71fef6d0892c",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/urban-crush.jpg",
+    "localPath": "public/media/services/urban-crush.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 250673,
+    "sha256": "73f5f6ca4e308ce38c0f18efc250420440decb8e0097529f85cc71fef6d0892c",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Photo12-1920w-2.jpg",
+    "localPath": "public/media/services/Photo12-1920w-2-300x225.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 320416,
+    "sha256": "d2be14c511909b2b08bc4cad14ae60df225eaf32080976f5bc05b2eebced4e1d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Photo12-1920w-2.jpg",
+    "localPath": "public/media/services/Photo12-1920w-2-768x576.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 320416,
+    "sha256": "d2be14c511909b2b08bc4cad14ae60df225eaf32080976f5bc05b2eebced4e1d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Photo12-1920w-2.jpg",
+    "localPath": "public/media/services/Photo12-1920w-2-1536x1152.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 320416,
+    "sha256": "d2be14c511909b2b08bc4cad14ae60df225eaf32080976f5bc05b2eebced4e1d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Photo12-1920w-2.jpg",
+    "localPath": "public/media/services/Photo12-1920w-2.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 320416,
+    "sha256": "d2be14c511909b2b08bc4cad14ae60df225eaf32080976f5bc05b2eebced4e1d",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/3bb437a5e748087f10a451927ead9a61bb31852d_hero-image-1.jpg",
+    "localPath": "public/media/services/3bb437a5e748087f10a451927ead9a61bb31852d_hero-image-1-300x177.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 89783,
+    "sha256": "35dbce3f55664df1bfd9165a993ec7370fefb5e7b012082883266ca999902dd4",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/3bb437a5e748087f10a451927ead9a61bb31852d_hero-image-1.jpg",
+    "localPath": "public/media/services/3bb437a5e748087f10a451927ead9a61bb31852d_hero-image-1-768x454.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 89783,
+    "sha256": "35dbce3f55664df1bfd9165a993ec7370fefb5e7b012082883266ca999902dd4",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/3bb437a5e748087f10a451927ead9a61bb31852d_hero-image-1.jpg",
+    "localPath": "public/media/services/3bb437a5e748087f10a451927ead9a61bb31852d_hero-image-1.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 89783,
+    "sha256": "35dbce3f55664df1bfd9165a993ec7370fefb5e7b012082883266ca999902dd4",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/c96f081c-3d94-4c25-b210-fdd92b9f619e_KitchenFusionStone.jpg",
+    "localPath": "public/media/services/c96f081c-3d94-4c25-b210-fdd92b9f619e_KitchenFusionStone-300x263.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 557275,
+    "sha256": "9e9196de8cd05155d7595e20ca5d712ecf9619c1567fcdbe2c3a03e2848b06ae",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/c96f081c-3d94-4c25-b210-fdd92b9f619e_KitchenFusionStone.jpg",
+    "localPath": "public/media/services/c96f081c-3d94-4c25-b210-fdd92b9f619e_KitchenFusionStone-768x672.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 557275,
+    "sha256": "9e9196de8cd05155d7595e20ca5d712ecf9619c1567fcdbe2c3a03e2848b06ae",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/c96f081c-3d94-4c25-b210-fdd92b9f619e_KitchenFusionStone.jpg",
+    "localPath": "public/media/services/c96f081c-3d94-4c25-b210-fdd92b9f619e_KitchenFusionStone-1536x1344.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 557275,
+    "sha256": "9e9196de8cd05155d7595e20ca5d712ecf9619c1567fcdbe2c3a03e2848b06ae",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/c96f081c-3d94-4c25-b210-fdd92b9f619e_KitchenFusionStone.jpg",
+    "localPath": "public/media/services/c96f081c-3d94-4c25-b210-fdd92b9f619e_KitchenFusionStone-2048x1792.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 557275,
+    "sha256": "9e9196de8cd05155d7595e20ca5d712ecf9619c1567fcdbe2c3a03e2848b06ae",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/61a2fbdf073d5845a6c19ad6a246dfc86247e601_swanky-spot-hero.jpg",
+    "localPath": "public/media/services/61a2fbdf073d5845a6c19ad6a246dfc86247e601_swanky-spot-hero-300x198.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 180897,
+    "sha256": "2944bc215e65bdbea209836ba70fa671a9a9f08bc909ac9b723ecee1de3c74c0",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/61a2fbdf073d5845a6c19ad6a246dfc86247e601_swanky-spot-hero.jpg",
+    "localPath": "public/media/services/61a2fbdf073d5845a6c19ad6a246dfc86247e601_swanky-spot-hero-768x506.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 180897,
+    "sha256": "2944bc215e65bdbea209836ba70fa671a9a9f08bc909ac9b723ecee1de3c74c0",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/61a2fbdf073d5845a6c19ad6a246dfc86247e601_swanky-spot-hero.jpg",
+    "localPath": "public/media/services/61a2fbdf073d5845a6c19ad6a246dfc86247e601_swanky-spot-hero.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 180897,
+    "sha256": "2944bc215e65bdbea209836ba70fa671a9a9f08bc909ac9b723ecee1de3c74c0",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/leo-kitchor-home5-banner6-img1.webp",
+    "localPath": "public/media/services/leo-kitchor-home5-banner6-img1-300x191.webp",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 63950,
+    "sha256": "a956034a48ec295a5bf7207ab8cd4531f6576ae8b7fd9cd346c7eb37f43903c5",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/leo-kitchor-home5-banner6-img1.webp",
+    "localPath": "public/media/services/leo-kitchor-home5-banner6-img1-768x488.webp",
+    "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "bytes": 63950,
+    "sha256": "a956034a48ec295a5bf7207ab8cd4531f6576ae8b7fd9cd346c7eb37f43903c5",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/flora2-1.jpg",
+    "localPath": "public/media/gallery/flora2-1-qrha893c5ip8nsb3ayo0gx4vs8ugckl8pryo669ncg.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 98827,
+    "sha256": "b8abdacda99c2c5834facf8ac35d336cb303458b6903916068c9b9fb1cf8c176",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Flora4.jpg",
+    "localPath": "public/media/gallery/Flora4-qrha8az0j6rtb08czzh9lwnsz0l6ryspe19n4q6v00.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 99493,
+    "sha256": "19eb0aaf806079a78f7c2ddd00a63275d48b7636c08a9ba5d00a28de8a2d691f",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/0ea463ba07322b0805275547fb7aa7fb.jpg",
+    "localPath": "public/media/gallery/0ea463ba07322b0805275547fb7aa7fb-qragr3o6h5bdn7fl83ctnhx7kj9eqppboooacigns4.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 60152,
+    "sha256": "30671c99db6f1555949f75cab61b173889249f173f2c3039a5a0f352569a942b",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/vanity-11.jpg",
+    "localPath": "public/media/gallery/vanity-11-qrppq4linhepaqja19pp0v7tirtmr4jn6kwo95mlb8.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 21889,
+    "sha256": "4d62a0ea773aeb6ef9a75170d092974bc250712a547299f0a578dde7af67c965",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/503861149fc33748efc720344aa0b565.jpg",
+    "localPath": "public/media/gallery/503861149fc33748efc720344aa0b565-qrocwlx7zbhmu8rbjj9ymtfnjl6mtxbuwxe7na95yo.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 48955,
+    "sha256": "552f3bb86591f8af0af260d6a7edde78ea404feeeb111c96152f353f7664d163",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/img-1.avif",
+    "localPath": "public/media/gallery/img-1-qrt57lgv10wtv8kngb6wn0jxe1g5ytrc2v4iyr0ub4.avif",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 39087,
+    "sha256": "d1f6911a31ad2c5c359f5d02101250a67c4304e4c99d38c1551bf087fab380ac",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/hamed-alishahi-1129786-unsplash.jpg",
+    "localPath": "public/media/gallery/hamed-alishahi-1129786-unsplash-300x200.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 99446,
+    "sha256": "b6589044a98fce19ca77950b9564e4e8763c28d0cb97ba68fafac0a8b57cdc34",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/hamed-alishahi-1129786-unsplash.jpg",
+    "localPath": "public/media/gallery/hamed-alishahi-1129786-unsplash-768x512.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+    "bytes": 99446,
+    "sha256": "b6589044a98fce19ca77950b9564e4e8763c28d0cb97ba68fafac0a8b57cdc34",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/a56add0a2c9f5bc17bbd3c95010b7787.jpg",
+    "localPath": "public/media/portfolio/a56add0a2c9f5bc17bbd3c95010b7787-200x300.jpg",
+    "pageSource": "https://website.kitchenflooringdepot.com/portfolio/",
+    "bytes": 66314,
+    "sha256": "05614a2af31b7cd8e2f20da066a0bcffa2079c51466d4da541276a72dab718d1",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "file://C:\\Users\\hp\\.cursor\\projects\\c-Users-hp-Desktop-kitchen-flooring\\assets\\image-59ce2c23-a465-4547-ac13-9279853f5d59.jpg",
+    "localPath": "public/media/reference/approved-homepage.jpg",
+    "pageSource": "local-reference",
+    "bytes": 132063,
+    "sha256": "56c85a41d9de2021ce673d71a8d3f9a7c587121a71d3d6958c40fc2ec82af447",
+    "status": "succeeded"
+  },
+  {
+    "sourceUrl": "file://C:\\Users\\hp\\.cursor\\projects\\c-Users-hp-Desktop-kitchen-flooring\\assets\\image-59ce2c23-a465-4547-ac13-9279853f5d59.jpg#crop",
+    "localPath": "public/media/hero/approved-hero.jpg",
+    "pageSource": "local-reference",
+    "bytes": 47257,
+    "sha256": "c60bb6e3bcaa901c1a73fda9817fe3c56e74b5fd88595404ef642a69747df4fc",
+    "status": "succeeded"
+  }
+]

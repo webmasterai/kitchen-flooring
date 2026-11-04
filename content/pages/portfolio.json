@@ -1,0 +1,27 @@
+{
+  "id": "portfolio",
+  "slug": "our-work",
+  "title": "Portfolio",
+  "seoDescription": "Explore kitchen, flooring and bathroom portfolio photography from Kitchen & Flooring Depot in Newington, CT.",
+  "intro": {
+    "eyebrow": "OUR PORTFOLIO",
+    "heading": "Good design. Real possibilities.",
+    "body": "Explore kitchen, flooring and bathroom spaces designed for everyday living."
+  },
+  "filters": [
+    { "id": "all", "label": "All Projects" },
+    { "id": "kitchens", "label": "Kitchens" },
+    { "id": "flooring", "label": "Flooring" },
+    { "id": "bathrooms", "label": "Bathrooms" },
+    { "id": "countertops", "label": "Countertops" }
+  ],
+  "pageSize": 4,
+  "emptyMessage": "No published projects in this category yet.",
+  "browseMoreLabel": "Browse More Projects",
+  "cta": {
+    "heading": "Let’s make your ideas feel at home.",
+    "body": "Bring your ideas to our Newington showroom. Let’s find the right materials, finishes and layout for your home.",
+    "buttonLabel": "Start Your Project",
+    "buttonHref": "/contact#contact-form"
+  }
+}

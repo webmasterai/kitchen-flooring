@@ -1,0 +1,49 @@
+{
+  "page": "bathroom-vanities",
+  "recordedAt": "2026-11-03",
+  "sourcePolicy": "Strictly sourced from https://website.kitchenflooringdepot.com/",
+  "assets": [
+    {
+      "slot": "styles.items[0] (Floating Vanities)",
+      "localPath": "public/media/services/vanity-9-qrppq7f7x6tt7em56oc3akh68lpah3kxcv3wgs36vk.jpg",
+      "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/vanity-9.jpg",
+      "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+      "notes": "Bathroom vanity installation with open wood shelving and organized towels."
+    },
+    {
+      "slot": "styles.items[1] (Freestanding Vanities)",
+      "localPath": "public/media/services/Vanity-8-qrpqfmxrowr9e1u0f0a38bpg0gw2yudjvzumu63zwo.webp",
+      "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Vanity-8.webp",
+      "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+      "notes": "Modern freestanding bathroom vanity with brushed fixtures and framed mirror."
+    },
+    {
+      "slot": "styles.items[2] (Double Vanities)",
+      "localPath": "public/media/gallery/vanity-10-qrppq3nogndez4kn6rb2gdgcxdy9jffwug96rvnzhg.png",
+      "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/vanity-10.png",
+      "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+      "notes": "Double bathroom vanity with twin undermount basins."
+    },
+    {
+      "slot": "storage.image",
+      "localPath": "public/media/services/vanity-11-qrppq4linhgowt8a7j3avqmuv8ec7qgs9s53cigzyo.jpg",
+      "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/vanity-11.jpg",
+      "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+      "notes": "Bathroom vanity cabinet storage detail from the source website."
+    }
+  ],
+  "missingRequirements": [
+    {
+      "slot": "options.finishes (Natural Oak, Soft White, Sage Green, Deep Walnut)",
+      "reason": "Individual finish sample swatches are not published on https://website.kitchenflooringdepot.com/. Held in CMS with visible: false."
+    },
+    {
+      "slot": "options.handles (Bar pull, Knob, Matte black, Cup pull)",
+      "reason": "Individual handle sample cutouts are not published on https://website.kitchenflooringdepot.com/. Held in CMS with visible: false."
+    },
+    {
+      "slot": "options.basins (Undermount, Vessel, Rectangular)",
+      "reason": "Individual basin cutout photography is not published on https://website.kitchenflooringdepot.com/. Held in CMS with visible: false."
+    }
+  ]
+}

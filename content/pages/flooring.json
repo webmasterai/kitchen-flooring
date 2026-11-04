@@ -1,0 +1,274 @@
+{
+  "id": "flooring",
+  "slug": "flooring",
+  "title": "Flooring",
+  "seoDescription": "Hardwood, tile, laminate and vinyl flooring in Newington, CT — guidance, materials and professional installation from Kitchen & Flooring Depot.",
+  "visibleSections": [
+    "hero",
+    "benefits",
+    "options",
+    "lifestyle",
+    "process",
+    "gallery",
+    "cta"
+  ],
+  "hero": {
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "Services",
+        "href": "/services"
+      },
+      {
+        "label": "Flooring"
+      }
+    ],
+    "headingLine1": "A beautiful home",
+    "headingLine2": "starts underfoot.",
+    "body": "Flooring for real life — comfortable, durable and beautiful spaces you’ll love coming home to.",
+    "ctaLabel": "Explore Flooring",
+    "ctaHref": "#options",
+    "image": {
+      "src": "/media/services/laminate-vs-vinyl-feature-pic-1_2048x.webp",
+      "alt": "Open kitchen with wide wood-look plank flooring and natural wood island cabinets",
+      "objectPosition": "62% 55%"
+    }
+  },
+  "benefits": [
+    {
+      "id": "guidance",
+      "icon": "people",
+      "title": "Personal guidance",
+      "body": "Help from a knowledgeable team."
+    },
+    {
+      "id": "materials",
+      "icon": "layers",
+      "title": "Material choices",
+      "body": "A curated selection for every style."
+    },
+    {
+      "id": "install",
+      "icon": "tools",
+      "title": "Installation support",
+      "body": "From planning through to completion."
+    }
+  ],
+  "options": {
+    "id": "options",
+    "heading": "Find the floor that fits your life.",
+    "body": "Styles, textures and performance for every room in your home.",
+    "items": [
+      {
+        "id": "hardwood",
+        "title": "Hardwood",
+        "body": "Timeless beauty with lasting character and warmth.",
+        "href": "/flooring/hardwood",
+        "image": {
+          "src": "/media/gallery/flora2-1-qrha893c5ip8nsb3ayo0gx4vs8ugckl8pryo669n5s.jpg",
+          "alt": "Warm hardwood flooring through an open living and kitchen space",
+          "objectPosition": "center 70%"
+        },
+        "detail": {
+          "heading": "Hardwood floors",
+          "body": "Browse hardwood options with our team and find a look that fits your home. We help with selection and professional installation for lasting results."
+        }
+      },
+      {
+        "id": "laminate",
+        "title": "Laminate",
+        "body": "Stylish, durable and a smart choice for busy households.",
+        "href": "/flooring/laminates-vinyl",
+        "image": {
+          "src": "/media/services/leo-kitchor-home4-banner4-img2.jpg",
+          "alt": "Light wood-look flooring in a bright open kitchen and dining area",
+          "objectPosition": "center 75%"
+        },
+        "detail": {
+          "heading": "Laminate flooring",
+          "body": "Laminate floors are durable and stylish for everyday living. Compare looks and practical needs in our Newington showroom."
+        }
+      },
+      {
+        "id": "luxury-vinyl",
+        "title": "Luxury Vinyl",
+        "body": "Versatile, comfortable and designed for modern living.",
+        "href": "/flooring/laminates-vinyl",
+        "image": {
+          "src": "/media/services/laminate-vs-vinyl-feature-pic-1_2048x.webp",
+          "alt": "Wood-look plank flooring across a modern kitchen with island",
+          "objectPosition": "45% 78%"
+        },
+        "detail": {
+          "heading": "Luxury vinyl flooring",
+          "body": "Vinyl options offer comfort and versatility for modern homes. We’ll help you compare styles available through our showroom."
+        }
+      },
+      {
+        "id": "tile",
+        "title": "Tile",
+        "body": "A beautiful, durable option for high-traffic and wet areas.",
+        "href": "/flooring/tiles",
+        "image": {
+          "src": "/media/services/ceramic-porcelain-tile_silk-light-grey-matte-6de900f0f8347293d4adac1743d3f12f_fb3761a9-5d27-4c0a-8926-38996d4c772e.webp",
+          "alt": "Large-format light tile flooring in a modern kitchen",
+          "objectPosition": "center 80%"
+        },
+        "detail": {
+          "heading": "Tile flooring",
+          "body": "Porcelain and ceramic tile in a range of patterns and styles — a durable choice for kitchens, baths and busy spaces."
+        }
+      }
+    ]
+  },
+  "lifestyle": {
+    "headingLine1": "Style you love.",
+    "headingLine2": "Comfort you live with.",
+    "body": "We help you choose flooring based on the rooms you use most, how your household lives day to day, and the budget that fits your project.",
+    "image": {
+      "src": "/media/gallery/flora2-1-qrha893c5ip8nsb3ayo0gx4vs8ugckl8pryo669n5s.jpg",
+      "alt": "Hardwood flooring detail in a bright living space near a kitchen island",
+      "objectPosition": "70% 80%"
+    },
+    "points": [
+      {
+        "id": "room",
+        "icon": "home",
+        "title": "Room",
+        "body": "Different spaces have different needs."
+      },
+      {
+        "id": "finish",
+        "icon": "diamond",
+        "title": "Finish",
+        "body": "From smooth and modern to textured and rustic."
+      },
+      {
+        "id": "everyday",
+        "icon": "people",
+        "title": "Everyday use",
+        "body": "Consider traffic, pets and easy care."
+      }
+    ]
+  },
+  "finishes": {
+    "heading": "See it. Feel it. Find your finish.",
+    "body": "Explore a range of popular looks in our showroom.",
+    "note": "Looks shown for inspiration — ask our team about current availability.",
+    "items": [
+      {
+        "id": "light-oak",
+        "label": "Light Oak",
+        "visible": false,
+        "order": 1,
+        "image": {
+          "src": "",
+          "alt": "Light oak flooring look sample",
+          "objectPosition": "center"
+        }
+      },
+      {
+        "id": "warm-oak",
+        "label": "Warm Oak",
+        "visible": false,
+        "order": 2,
+        "image": {
+          "src": "",
+          "alt": "Warm oak flooring look sample",
+          "objectPosition": "center"
+        }
+      },
+      {
+        "id": "walnut",
+        "label": "Walnut",
+        "visible": false,
+        "order": 3,
+        "image": {
+          "src": "",
+          "alt": "Deep walnut-toned flooring look sample",
+          "objectPosition": "center"
+        }
+      },
+      {
+        "id": "stone-look",
+        "label": "Stone Look",
+        "visible": false,
+        "order": 4,
+        "image": {
+          "src": "",
+          "alt": "Stone look tile flooring sample",
+          "objectPosition": "center"
+        }
+      },
+      {
+        "id": "soft-grey",
+        "label": "Soft Grey",
+        "visible": false,
+        "order": 5,
+        "image": {
+          "src": "",
+          "alt": "Soft grey wood-look flooring sample",
+          "objectPosition": "center"
+        }
+      }
+    ]
+  },
+  "process": {
+    "heading": "A simple process from selection to a beautiful floor.",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Explore options",
+        "body": "Browse materials, get expert guidance and find the right fit."
+      },
+      {
+        "number": "2",
+        "title": "Plan your space",
+        "body": "We’ll help you compare styles, finishes and practical considerations."
+      },
+      {
+        "number": "3",
+        "title": "Professional installation",
+        "body": "Our experienced team handles the details, so you can enjoy the results."
+      }
+    ]
+  },
+  "gallery": {
+    "heading": "Flooring inspiration.",
+    "body": "Real spaces. Timeless style.",
+    "disclaimer": "Inspiration photography — not verified completed client projects.",
+    "images": [
+      {
+        "id": "insp-living",
+        "src": "/media/gallery/flora2-1-qrha893c5ip8nsb3ayo0gx4vs8ugckl8pryo669n5s.jpg",
+        "alt": "Hardwood flooring across an open living room and kitchen — inspiration photography",
+        "caption": "Living room flooring inspiration",
+        "objectPosition": "center 55%"
+      },
+      {
+        "id": "insp-kitchen",
+        "src": "/media/gallery/Flora4-qrha8az0j6rtb08czzh9lwnsz0l6ryspe19n4q6utc.jpg",
+        "alt": "Hardwood flooring stepping into a bright kitchen — inspiration photography",
+        "caption": "Kitchen flooring inspiration",
+        "objectPosition": "center 60%"
+      },
+      {
+        "id": "insp-bath",
+        "src": "/media/gallery/vanity-10-qrppq3nogndez4kn6rb2gdgcxdy9jffwug96rvnzhg.png",
+        "alt": "Bathroom with dark herringbone flooring and light vanity — inspiration photography",
+        "caption": "Bathroom flooring inspiration",
+        "objectPosition": "center 70%"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Ready for a fresh foundation?",
+    "body": "Let’s find the perfect floor for your home.",
+    "buttonLabel": "Request a Free Quote",
+    "buttonHref": "/contact?service=flooring#contact-form"
+  },
+  "missingAssetsNote": "Individual flooring look swatches (Light Oak, Warm Oak, Walnut, Stone Look, Soft Grey) are not published on https://website.kitchenflooringdepot.com/ and await source photography. Finishes section is hidden from public display until showroom swatches are supplied."
+}

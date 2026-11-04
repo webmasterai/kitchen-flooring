@@ -1,0 +1,50 @@
+{
+  "page": "services",
+  "recordedAt": "2026-11-03",
+  "sourcePolicy": "Strictly sourced from https://website.kitchenflooringdepot.com/",
+  "assets": [
+    {
+      "slot": "featureImage",
+      "localPath": "public/media/services/Photo12-1920w-2.jpg",
+      "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Photo12-1920w-2.jpg",
+      "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+      "notes": "Full-width shallow panoramic kitchen photograph featuring custom cabinetry, marble island, and hardwood flooring."
+    },
+    {
+      "slot": "services.cabinets",
+      "localPath": "public/media/gallery/Jeff2-scaled-qrha9z4ool25y1sz8phe1hhazocoglfiyb0pufpnxs.jpg",
+      "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Jeff2-scaled.jpg",
+      "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+      "notes": "Custom dark wood kitchen cabinetry installation with waterfall island and modern fixtures."
+    },
+    {
+      "slot": "services.flooring",
+      "localPath": "public/media/services/laminate-vs-vinyl-feature-pic-1_2048x.webp",
+      "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/laminate-vs-vinyl-feature-pic-1_2048x.webp",
+      "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+      "notes": "High-resolution flooring-focused photography of modern wood-look plank flooring."
+    },
+    {
+      "slot": "services.countertops",
+      "localPath": "public/media/services/c96f081c-3d94-4c25-b210-fdd92b9f619e_KitchenFusionStone-1536x1344.jpg",
+      "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/c96f081c-3d94-4c25-b210-fdd92b9f619e_KitchenFusionStone.jpg",
+      "pageSource": "https://website.kitchenflooringdepot.com/countertops/",
+      "notes": "Polished stone countertop surface with veining detail."
+    },
+    {
+      "slot": "services.bathroom-vanities",
+      "localPath": "public/media/services/vanity-10-qrppq3nm0xstzexbiywyhron1mr3uv02dltrhjz0y0.png",
+      "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/vanity-10.png",
+      "pageSource": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+      "notes": "Bathroom vanity installation showing full cabinet unit, dual undermount basins, and mirror."
+    },
+    {
+      "slot": "services.kitchen-remodel",
+      "localPath": "public/media/services/3bb437a5e748087f10a451927ead9a61bb31852d_hero-image-1.jpg",
+      "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/3bb437a5e748087f10a451927ead9a61bb31852d_hero-image-1.jpg",
+      "pageSource": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+      "notes": "Complete kitchen transformation showcasing cabinetry, island, countertops, and lighting."
+    }
+  ],
+  "missingRequirements": []
+}

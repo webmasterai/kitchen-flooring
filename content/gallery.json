@@ -1,0 +1,531 @@
+{
+  "id": "gallery",
+  "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/",
+  "note": "Images shown for inspiration.",
+  "hero": {
+    "eyebrow": "OUR GALLERY",
+    "headingLine1": "Find inspiration",
+    "headingLine2": "for your home.",
+    "body": "Browse cabinets, flooring, bathroom vanities and countertops for everyday home inspiration.",
+    "image": {
+      "src": "/media/gallery/503861149fc33748efc720344aa0b565-qrocwlx7zbhmu8rbjj9ymtfnjl6mtxbuwxe7na95yo.jpg",
+      "alt": "Bright kitchen inspiration with island seating and light cabinetry"
+    }
+  },
+  "filters": [
+    {
+      "id": "all",
+      "label": "All Spaces"
+    },
+    {
+      "id": "cabinets",
+      "label": "Cabinets"
+    },
+    {
+      "id": "flooring",
+      "label": "Flooring"
+    },
+    {
+      "id": "bathroom-vanities",
+      "label": "Bathroom Vanities"
+    },
+    {
+      "id": "countertops",
+      "label": "Countertops"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cabinets",
+      "label": "Cabinets",
+      "heading": "Cabinets",
+      "description": "Kitchen cabinetry styles and layouts for everyday living."
+    },
+    {
+      "id": "flooring",
+      "label": "Flooring",
+      "heading": "Flooring",
+      "description": "Floor surfaces that set the tone from room to room."
+    },
+    {
+      "id": "bathroom-vanities",
+      "label": "Bathroom Vanities",
+      "heading": "Bathroom Vanities",
+      "description": "Vanity units and bathroom storage that start the day calmly."
+    },
+    {
+      "id": "countertops",
+      "label": "Countertops",
+      "heading": "Countertops",
+      "description": "Kitchen and vanity surfaces shown for finish inspiration."
+    }
+  ],
+  "images": [
+    {
+      "id": "503861149fc33748efc720344aa0b565-qrocwlx7zbhmu8rbjj9ymtfnjl6mtxbuwxe7na95yo.jpg",
+      "src": "/media/gallery/503861149fc33748efc720344aa0b565-qrocwlx7zbhmu8rbjj9ymtfnjl6mtxbuwxe7na95yo.jpg",
+      "alt": "Bright kitchen inspiration with tall cream cabinetry and a large island",
+      "caption": "Bright kitchen with tall cream cabinetry",
+      "category": "cabinets",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "Jeff2-scaled-qrha9z4ool25y1sz8phe1hhazocoglfiyb0pufpnxs.jpg",
+      "src": "/media/gallery/Jeff2-scaled-qrha9z4ool25y1sz8phe1hhazocoglfiyb0pufpnxs.jpg",
+      "alt": "Kitchen with white cabinets and contrasting accent cabinetry",
+      "caption": "White kitchen cabinets with contrasting accents",
+      "category": "cabinets",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "kitchen-amy-2-scaled-qrhaae63pxmr3t74svzf5doohuajvr38cdghiv3d68.jpg",
+      "src": "/media/gallery/kitchen-amy-2-scaled-qrhaae63pxmr3t74svzf5doohuajvr38cdghiv3d68.jpg",
+      "alt": "White kitchen cabinets with black hardware beside a range",
+      "caption": "White kitchen cabinets with black hardware",
+      "category": "cabinets",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "Kitchen-amy3-scaled-qrhaagzmafqm2n31cf7auuz29zwniuefcrexyoz6nk.jpg",
+      "src": "/media/gallery/Kitchen-amy3-scaled-qrhaagzmafqm2n31cf7auuz29zwniuefcrexyoz6nk.jpg",
+      "alt": "White kitchen cabinetry along a sink wall with a window",
+      "caption": "White cabinetry along a kitchen sink wall",
+      "category": "cabinets",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "j6-1-qro8eevsohgfgkcunfbidqw9e0mim5f9y4tygeqrn4.jpg",
+      "src": "/media/gallery/j6-1-qro8eevsohgfgkcunfbidqw9e0mim5f9y4tygeqrn4.jpg",
+      "alt": "White kitchen cabinets surrounding a center island",
+      "caption": "White kitchen cabinets with a center island",
+      "category": "cabinets",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "Jeff6-scaled-qrhaa4rptl9vvpksbrx5gg22jzkvqs1wz2xmq3hawg.jpg",
+      "src": "/media/gallery/Jeff6-scaled-qrhaa4rptl9vvpksbrx5gg22jzkvqs1wz2xmq3hawg.jpg",
+      "alt": "White kitchen cabinets opening toward a dining area",
+      "caption": "White kitchen cabinets opening to dining",
+      "category": "cabinets",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "K9-qrhaaaeqylhltdcleucwvemu4at30yoazuujlr8xv4.jpg",
+      "src": "/media/gallery/K9-qrhaaaeqylhltdcleucwvemu4at30yoazuujlr8xv4.jpg",
+      "alt": "White kitchen cabinets paired with stone counters",
+      "caption": "White kitchen cabinets with stone counters",
+      "category": "cabinets",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "L1-qrhaahxgh9rwe91o6xlxfcqivds0qji5ow2ffyxshc.jpg",
+      "src": "/media/gallery/L1-qrhaahxgh9rwe91o6xlxfcqivds0qji5ow2ffyxshc.jpg",
+      "alt": "Light kitchen cabinets with a dark countertop under a window",
+      "caption": "Light kitchen cabinets with a dark countertop",
+      "category": "cabinets",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "h7-scaled-qrha928c1dt4np4rkt9g47s676utz6sx5s6q1r2fzk.jpg",
+      "src": "/media/gallery/h7-scaled-qrha928c1dt4np4rkt9g47s676utz6sx5s6q1r2fzk.jpg",
+      "alt": "Two-tone kitchen cabinets with a dark island base",
+      "caption": "Two-tone kitchen cabinets with an island",
+      "category": "cabinets",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "aaron-huber-401200-unsplash-qqt0i0iktg7xflcdyp1amad3w2s68lg05r2o4bs3n4.jpg",
+      "src": "/media/gallery/aaron-huber-401200-unsplash-qqt0i0iktg7xflcdyp1amad3w2s68lg05r2o4bs3n4.jpg",
+      "alt": "White kitchen cabinetry with island seating and pendant lights",
+      "caption": "White kitchen cabinetry with island seating",
+      "category": "cabinets",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "kyle-head-364351-unsplash-1-qqt0i57rrmed1n5k792fgr6ev050b2ynuec3ipl4s0.jpg",
+      "src": "/media/gallery/kyle-head-364351-unsplash-1-qqt0i57rrmed1n5k792fgr6ev050b2ynuec3ipl4s0.jpg",
+      "alt": "Kitchen with mixed wood and painted cabinets around an island",
+      "caption": "Mixed wood and painted kitchen cabinets",
+      "category": "cabinets",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "flora2-1-qrha893c5ip8nsb3ayo0gx4vs8ugckl8pryo669n5s.jpg",
+      "src": "/media/gallery/flora2-1-qrha893c5ip8nsb3ayo0gx4vs8ugckl8pryo669n5s.jpg",
+      "alt": "Warm hardwood flooring across an open kitchen and living space",
+      "caption": "Hardwood flooring through an open living space",
+      "category": "flooring",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "Flora4-qrha8az0j6rtb08czzh9lwnsz0l6ryspe19n4q6utc.jpg",
+      "src": "/media/gallery/Flora4-qrha8az0j6rtb08czzh9lwnsz0l6ryspe19n4q6utc.jpg",
+      "alt": "Hardwood flooring stepping up into a bright kitchen",
+      "caption": "Hardwood flooring with a kitchen step transition",
+      "category": "flooring",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "svc-hardwood",
+      "src": "/media/services/leo-kitchor-home4-banner4-img2.jpg",
+      "alt": "Light wood flooring in an open kitchen and dining area",
+      "caption": "Light wood flooring in an open kitchen",
+      "category": "flooring",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/flooring/"
+    },
+    {
+      "id": "svc-laminate",
+      "src": "/media/services/laminate-vs-vinyl-feature-pic-1_2048x.webp",
+      "alt": "Wood-look plank flooring across a modern kitchen with island",
+      "caption": "Wood-look plank flooring in a modern kitchen",
+      "category": "flooring",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/flooring/"
+    },
+    {
+      "id": "svc-tile",
+      "src": "/media/services/ceramic-porcelain-tile_silk-light-grey-matte-6de900f0f8347293d4adac1743d3f12f_fb3761a9-5d27-4c0a-8926-38996d4c772e.webp",
+      "alt": "Large-format light tile flooring in a kitchen and dining space",
+      "caption": "Large-format tile flooring in a kitchen dining space",
+      "category": "flooring",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/flooring/"
+    },
+    {
+      "id": "vanity-10-qrppq3nogndez4kn6rb2gdgcxdy9jffwug96rvnzhg.png",
+      "src": "/media/gallery/vanity-10-qrppq3nogndez4kn6rb2gdgcxdy9jffwug96rvnzhg.png",
+      "alt": "Double bathroom vanity with soft gray cabinets and a stone top",
+      "caption": "Double bathroom vanity with soft gray cabinets",
+      "category": "bathroom-vanities",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "vanity-11-qrppq4linhepaqja19pp0v7tirtmr4jn6kwo95mlb8.jpg",
+      "src": "/media/gallery/vanity-11-qrppq4linhepaqja19pp0v7tirtmr4jn6kwo95mlb8.jpg",
+      "alt": "Bathroom vanity close-up with twin sinks and dark faucets",
+      "caption": "Bathroom vanity with twin sinks",
+      "category": "bathroom-vanities",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "Vanity-8-qrpqfmxu4mbudrhc2so76xh5w838netecua24hsyg4.webp",
+      "src": "/media/gallery/Vanity-8-qrpqfmxu4mbudrhc2so76xh5w838netecua24hsyg4.webp",
+      "alt": "Floating double bathroom vanity with round mirrors",
+      "caption": "Floating double vanity with round mirrors",
+      "category": "bathroom-vanities",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "vanity-9-qrppq7f17zik9kf6ksxkqci7axfqe7uu6yv4oziesk.jpg",
+      "src": "/media/gallery/vanity-9-qrppq7f17zik9kf6ksxkqci7axfqe7uu6yv4oziesk.jpg",
+      "alt": "Single bathroom vanity with a round mirror against a dark wall",
+      "caption": "Single bathroom vanity with a round mirror",
+      "category": "bathroom-vanities",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "0ea463ba07322b0805275547fb7aa7fb-qragr3o6h5bdn7fl83ctnhx7kj9eqppboooacign48.jpg",
+      "src": "/media/gallery/0ea463ba07322b0805275547fb7aa7fb-qragr3o6h5bdn7fl83ctnhx7kj9eqppboooacign48.jpg",
+      "alt": "Floating bathroom vanity with a backlit mirror and dark base",
+      "caption": "Floating bathroom vanity with a backlit mirror",
+      "category": "bathroom-vanities",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "c1c1f257dec3e9231e666786ccb89d04-qragxv4dn8kn67lyqil73ahlfbxh4bjsy5n1n6fp0k.jpg",
+      "src": "/media/gallery/c1c1f257dec3e9231e666786ccb89d04-qragxv4dn8kn67lyqil73ahlfbxh4bjsy5n1n6fp0k.jpg",
+      "alt": "Floating double bathroom vanity with wall-mounted faucets",
+      "caption": "Floating double vanity with wall-mounted faucets",
+      "category": "bathroom-vanities",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "hamed-alishahi-1129786-unsplash.jpg",
+      "src": "/media/gallery/hamed-alishahi-1129786-unsplash.jpg",
+      "alt": "Kitchen island with white stone counters and a sink",
+      "caption": "Kitchen island with white stone counters",
+      "category": "countertops",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "kitchen-countertop-trends-in-2022-qro0fxmlq9acz0hfhlcwg1ermcn8n44d86ygwfic1c.jpeg",
+      "src": "/media/gallery/kitchen-countertop-trends-in-2022-qro0fxmlq9acz0hfhlcwg1ermcn8n44d86ygwfic1c.jpeg",
+      "alt": "Large kitchen island countertop with seating and pendant lights",
+      "caption": "Kitchen island countertop with seating",
+      "category": "countertops",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "Flora8-qrha8bwuq0t3mm6zuhvw6ef9kegjznwfq5x4m05gts.jpg",
+      "src": "/media/gallery/Flora8-qrha8bwuq0t3mm6zuhvw6ef9kegjznwfq5x4m05gts.jpg",
+      "alt": "Kitchen countertop detail with a patterned tile backsplash",
+      "caption": "Kitchen countertop with a patterned backsplash",
+      "category": "countertops",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "458f61cbe9a42d443cdfde46dbabfdad-qrodgrkmjf2zt7h9u8xy3qbi51tzw9cn0p124wd8j4.jpg",
+      "src": "/media/gallery/458f61cbe9a42d443cdfde46dbabfdad-qrodgrkmjf2zt7h9u8xy3qbi51tzw9cn0p124wd8j4.jpg",
+      "alt": "Kitchen island with dramatic stone surfaces and dark cabinetry",
+      "caption": "Kitchen island with dramatic stone surfaces",
+      "category": "countertops",
+      "visible": true,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "0ea463ba07322b0805275547fb7aa7fb-qragr3o6h5bdn7fl83ctnhx7kj9eqppboooacigns4.jpg",
+      "src": "/media/gallery/0ea463ba07322b0805275547fb7aa7fb-qragr3o6h5bdn7fl83ctnhx7kj9eqppboooacigns4.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "24adb78caf934c7da8edca425668f1e2-qragr5juutdyafcux462shg4rb0563wscxz9b2dvfo.jpg",
+      "src": "/media/gallery/24adb78caf934c7da8edca425668f1e2-qragr5juutdyafcux462shg4rb0563wscxz9b2dvfo.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "36715c8ce4da9d521da45338573e8c1c-qragr7fj8hgixna4m4zbxgz1y2qvli4917a89mb338.jpg",
+      "src": "/media/gallery/36715c8ce4da9d521da45338573e8c1c-qragr7fj8hgixna4m4zbxgz1y2qvli4917a89mb338.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "378a032a517d87ad21de440ad1e49599-qragr9b7m5j3kv7eb5sl2ghz4uhm0wbppgl7868aqs.jpg",
+      "src": "/media/gallery/378a032a517d87ad21de440ad1e49599-qragr9b7m5j3kv7eb5sl2ghz4uhm0wbppgl7868aqs.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "503861149fc33748efc720344aa0b565-qrocwlx7zbhmu8rbjj9ymtfnjl6mtxbuwxe7na95oo.jpg",
+      "src": "/media/gallery/503861149fc33748efc720344aa0b565-qrocwlx7zbhmu8rbjj9ymtfnjl6mtxbuwxe7na95oo.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "flora2-1-qrha893c5ip8nsb3ayo0gx4vs8ugckl8pryo669ncg.jpg",
+      "src": "/media/gallery/flora2-1-qrha893c5ip8nsb3ayo0gx4vs8ugckl8pryo669ncg.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "Flora4-qrha8az0j6rtb08czzh9lwnsz0l6ryspe19n4q6v00.jpg",
+      "src": "/media/gallery/Flora4-qrha8az0j6rtb08czzh9lwnsz0l6ryspe19n4q6v00.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "g5-qrha8eqdaiwylg2we13rvvpnck2nmr7mqjvl1u1ab4.jpg",
+      "src": "/media/gallery/g5-qrha8eqdaiwylg2we13rvvpnck2nmr7mqjvl1u1ab4.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "h10-scaled-qrha9bmpxq5zvsr41xbpt5es51ki45u8j2pkuioi9c.jpg",
+      "src": "/media/gallery/h10-scaled-qrha9bmpxq5zvsr41xbpt5es51ki45u8j2pkuioi9c.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "hamed-alishahi-1129786-unsplash-qqt0hxp28y42grghf5tewt2q3x62li4t5d47ohwa5s.jpg",
+      "src": "/media/gallery/hamed-alishahi-1129786-unsplash-qqt0hxp28y42grghf5tewt2q3x62li4t5d47ohwa5s.jpg",
+      "alt": "Countertop inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Countertop inspiration photography",
+      "category": "countertops",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "img-1-qrt57lgv10wtv8kngb6wn0jxe1g5ytrc2v4iyr0tss.avif",
+      "src": "/media/gallery/img-1-qrt57lgv10wtv8kngb6wn0jxe1g5ytrc2v4iyr0tss.avif",
+      "alt": "Countertop inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Countertop inspiration photography",
+      "category": "countertops",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "img-1-qrt57lgv10wtv8kngb6wn0jxe1g5ytrc2v4iyr0ub4.avif",
+      "src": "/media/gallery/img-1-qrt57lgv10wtv8kngb6wn0jxe1g5ytrc2v4iyr0ub4.avif",
+      "alt": "Countertop inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Countertop inspiration photography",
+      "category": "countertops",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "j4-1-qrha9k39n8hksaetoizcxl9xhiet1frtk8ky60bypc.jpg",
+      "src": "/media/gallery/j4-1-qrha9k39n8hksaetoizcxl9xhiet1frtk8ky60bypc.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "Jeff-5-scaled-qrha9pqas8papy6mrlf4cjup1tn0bme7l0hv1o3lo0.jpg",
+      "src": "/media/gallery/Jeff-5-scaled-qrha9pqas8papy6mrlf4cjup1tn0bme7l0hv1o3lo0.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "Jeff3-scaled-qrhaa1y79360wvovs8p9qyrortys3oqpyoz6a9lhf4.jpg",
+      "src": "/media/gallery/Jeff3-scaled-qrhaa1y79360wvovs8p9qyrortys3oqpyoz6a9lhf4.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "L3-qrhaaivao3t6pv0b1g0jzuhzgrndy8lw10pwx8web4.jpg",
+      "src": "/media/gallery/L3-qrhaaivao3t6pv0b1g0jzuhzgrndy8lw10pwx8web4.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "L5-qrhaakqz1rvrd2xkqgtt4u0wnje4dmtcpa0vvstlyo.jpg",
+      "src": "/media/gallery/L5-qrhaakqz1rvrd2xkqgtt4u0wnje4dmtcpa0vvstlyo.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "m2-scaled-qrhaapg5zy26z4qqz0uxzau7mgqyg4c0dxaba6mn3k.jpg",
+      "src": "/media/gallery/m2-scaled-qrhaapg5zy26z4qqz0uxzau7mgqyg4c0dxaba6mn3k.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "M3-scaled-qrhaarbudm4rmco0o1o74ad4t8hovijh26la8qjur4.jpg",
+      "src": "/media/gallery/M3-scaled-qrhaarbudm4rmco0o1o74ad4t8hovijh26la8qjur4.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "m5-scaled-qrhaav374y9wwsik23ape9ez6rz5qayeep785uea28.jpg",
+      "src": "/media/gallery/m5-scaled-qrhaav374y9wwsik23ape9ez6rz5qayeep785uea28.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "murna9-scaled-qrhab5ff84o2gi3jdprlnot1q0k72z3g44dkfvyy5s.jpg",
+      "src": "/media/gallery/murna9-scaled-qrhab5ff84o2gi3jdprlnot1q0k72z3g44dkfvyy5s.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "myrna1-scaled-qrhabcy4qsyd1dsm5t0m7mwqh3j4sjxat5lga3nss0.jpg",
+      "src": "/media/gallery/myrna1-scaled-qrhabcy4qsyd1dsm5t0m7mwqh3j4sjxat5lga3nss0.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "myrna14-qrhac47g8zzoe2p0qmsspy13p9srzrxikwij74jdrk.jpg",
+      "src": "/media/gallery/myrna14-qrhac47g8zzoe2p0qmsspy13p9srzrxikwij74jdrk.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "myrna3-scaled-qrhabkgu9h8nm9hoxw9mrl0f86i2i4r5i6tc4bcne8.jpg",
+      "src": "/media/gallery/myrna3-scaled-qrhabkgu9h8nm9hoxw9mrl0f86i2i4r5i6tc4bcne8.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    },
+    {
+      "id": "myrna4-scaled-qrhabo870tdswpc8bxw51k29lpzjcx62upfa1f72pc.jpg",
+      "src": "/media/gallery/myrna4-scaled-qrhabo870tdswpc8bxw51k29lpzjcx62upfa1f72pc.jpg",
+      "alt": "Kitchen cabinet inspiration photography from Kitchen & Flooring Depot",
+      "caption": "Kitchen cabinet inspiration photography",
+      "category": "cabinets",
+      "visible": false,
+      "sourceUrl": "https://website.kitchenflooringdepot.com/gallery/"
+    }
+  ],
+  "cta": {
+    "heading": "See something you love?",
+    "body": "Let’s bring your ideas to life.",
+    "buttonLabel": "Plan Your Project",
+    "buttonHref": "/contact#contact-form",
+    "backgroundImage": ""
+  }
+}

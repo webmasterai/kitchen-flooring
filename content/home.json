@@ -1,0 +1,135 @@
+{
+  "hero": {
+    "eyebrow": "Kitchen Remodeling in Newington, CT",
+    "headingLine1": "Beautiful kitchens.",
+    "headingLine2": "Better living.",
+    "body": "Custom kitchens, flooring and more — designed for the way you live. Quality materials, expert craftsmanship, and a local team you can trust.",
+    "ctaLabel": "Explore Your Project →",
+    "ctaHref": "/kitchen-remodel",
+    "slides": [
+      {
+        "id": "hero-cabinets-photo12",
+        "src": "/media/services/Photo12-1920w-2.jpg",
+        "alt": "Full kitchen installation with custom dark blue and charcoal cabinetry, marble island, and hardwood floors",
+        "objectPosition": "50% 45%"
+      },
+      {
+        "id": "hero-main",
+        "src": "/media/hero/kitchen-main-hero-d51cb748-qqt2r33ci2xqcey4jj8t3dmervom0gcngyzg56kbu4.jpeg",
+        "alt": "Bright modern kitchen with island seating, white cabinetry and wood flooring",
+        "objectPosition": "50% 45%"
+      },
+      {
+        "id": "hero-rune",
+        "src": "/media/hero/rune-enstad-1090369-unsplash.jpg",
+        "alt": "Complete kitchen remodel with white cabinets, wood counters and a breakfast nook",
+        "objectPosition": "50% 45%"
+      }
+    ],
+    "autoplayInterval": 5.5,
+    "autoplay": true
+  },
+  "benefitsBar": {
+    "items": [
+      {
+        "id": "design",
+        "title": "Thoughtful Design",
+        "body": "Spaces designed around your life.",
+        "icon": "diamond"
+      },
+      {
+        "id": "materials",
+        "title": "Quality Materials",
+        "body": "Beautiful, durable and built to last.",
+        "icon": "leaf"
+      },
+      {
+        "id": "install",
+        "title": "Expert Installation",
+        "body": "Experienced professionals you can trust.",
+        "icon": "people"
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "Our Services",
+    "heading": "Made for the way you live.",
+    "intro": "From kitchens and flooring to bathroom vanities and countertops, we provide complete solutions to make your home more beautiful, functional and valuable."
+  },
+  "showroom": {
+    "eyebrow": "Newington, Connecticut",
+    "headingLine1": "Your home. Your style.",
+    "headingLine2": "Our expertise.",
+    "body": "At Kitchen & Flooring Depot, we believe your home should be a reflection of you. With years of experience and a passion for quality, we help homeowners in Newington, CT and surrounding areas create beautiful, functional spaces that last. From concept to completion, our team is here to guide you every step of the way.",
+    "ctaLabel": "Visit Our Showroom →",
+    "ctaHref": "/contact",
+    "image": {
+      "src": "/media/services/Photo12-1920w-2.jpg",
+      "alt": "Kitchen showroom inspiration with wood cabinetry and modern island"
+    }
+  },
+  "projects": {
+    "eyebrow": "Project Inspiration",
+    "heading": "Thoughtful spaces. Lasting impressions.",
+    "intro": "Explore real kitchens and baths crafted for Newington-area homes — thoughtful design, quality materials, and finishes that feel personal.",
+    "ctaLabel": "View Our Work →",
+    "ctaHref": "/our-work"
+  },
+  "valueBand": {
+    "heading": "Beautiful from the first idea to the final detail.",
+    "items": [
+      {
+        "id": "creative",
+        "title": "Creative Solutions",
+        "body": "Designs tailored to your home.",
+        "icon": "lightbulb"
+      },
+      {
+        "id": "trusted",
+        "title": "Trusted Expertise",
+        "body": "Craftsmanship you can rely on.",
+        "icon": "shield"
+      },
+      {
+        "id": "focused",
+        "title": "Customer Focused",
+        "body": "A local team that listens.",
+        "icon": "people"
+      }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Testimonials",
+    "heading": "A little love from our customers.",
+    "ctaLabel": "Read More Reviews →",
+    "ctaHref": "/about#reviews",
+    "ids": [
+      "carley-f",
+      "ayesha-s"
+    ]
+  },
+  "quote": {
+    "headingLine1": "Let’s create a home",
+    "headingLine2": "you love.",
+    "body": "Reach out with questions or project details. Our team can help with cabinets, flooring, countertops, vanities, and full kitchen remodels — including a free in-store estimate.",
+    "image": {
+      "src": "/media/cta/quote-cta-plant-countertop.jpg",
+      "alt": "Ivory wall with potted olive plant and warm stone countertop"
+    }
+  },
+  "visibleSections": {
+    "hero": true,
+    "benefits": true,
+    "services": true,
+    "showroom": true,
+    "projects": true,
+    "value": true,
+    "testimonials": true,
+    "quote": true
+  },
+  "seo": {
+    "title": "Kitchen & Flooring Depot | Newington, CT Remodeling Showroom",
+    "description": "Custom kitchens, flooring, countertops, and bathroom vanities in Newington, CT. Visit our showroom or request a free quote.",
+    "ogImage": "/media/services/Photo12-1920w-2.jpg"
+  }
+}

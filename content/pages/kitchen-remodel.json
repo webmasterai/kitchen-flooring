@@ -1,0 +1,168 @@
+{
+  "id": "kitchen-remodel",
+  "slug": "kitchen-remodel",
+  "title": "Kitchen Remodel",
+  "seoDescription": "Kitchen remodeling in Newington, CT — design, cabinets, countertops, flooring and professional installation from Kitchen & Flooring Depot.",
+  "hero": {
+    "eyebrow": "KITCHEN REMODELING IN NEWINGTON, CT",
+    "headingLine1": "A kitchen made",
+    "headingLine2": "for your everyday.",
+    "body": "Thoughtful design, quality cabinets and surfaces, and professional installation — all in one place.",
+    "ctaLabel": "Plan Your Kitchen",
+    "ctaHref": "/contact#contact-form",
+    "image": {
+      "src": "/media/services/3bb437a5e748087f10a451927ead9a61bb31852d_hero-image-1.jpg",
+      "alt": "Bright modern kitchen with island seating and pendant lighting",
+      "objectPosition": "center"
+    }
+  },
+  "benefits": [
+    {
+      "id": "design",
+      "icon": "people",
+      "title": "Personal design guidance",
+      "body": "Work with experienced designers."
+    },
+    {
+      "id": "materials",
+      "icon": "diamond",
+      "title": "Quality materials",
+      "body": "Cabinets, countertops, flooring and more."
+    },
+    {
+      "id": "install",
+      "icon": "tools",
+      "title": "Professional installation",
+      "body": "A smooth, worry-free experience."
+    }
+  ],
+  "storage": {
+    "eyebrow": "DESIGNED AROUND YOU",
+    "heading": "More space for the way you live.",
+    "body": "From smarter storage to layouts that fit your routine, we help you plan a kitchen that works as hard as you do — with cabinets, surfaces and details chosen for everyday living.",
+    "linkLabel": "Visit Our Showroom",
+    "linkHref": "/contact",
+    "image": {
+      "src": "/media/services/61a2fbdf073d5845a6c19ad6a246dfc86247e601_swanky-spot-hero.jpg",
+      "alt": "Remodeled modern kitchen with island and open layout from Kitchen & Flooring Depot",
+      "objectPosition": "center"
+    }
+  },
+  "materials": {
+    "eyebrow": "EVERY DETAIL, THOUGHTFULLY SELECTED",
+    "items": [
+      {
+        "id": "cabinets",
+        "title": "Cabinets",
+        "body": "Stylish, durable cabinets for every home.",
+        "href": "/cabinets",
+        "image": {
+          "src": "/media/services/Photo12-1920w-2.jpg",
+          "alt": "Kitchen cabinet inspiration photography"
+        }
+      },
+      {
+        "id": "countertops",
+        "title": "Countertops",
+        "body": "Beautiful, long-lasting surfaces.",
+        "href": "/countertops",
+        "image": {
+          "src": "/media/services/c96f081c-3d94-4c25-b210-fdd92b9f619e_KitchenFusionStone-1024x896.jpg",
+          "alt": "Countertop surface inspiration photography"
+        }
+      },
+      {
+        "id": "flooring",
+        "title": "Flooring",
+        "body": "Quality flooring to complete your space.",
+        "href": "/flooring",
+        "image": {
+          "src": "/media/services/laminate-vs-vinyl-feature-pic-1_2048x.webp",
+          "alt": "Flooring inspiration photography"
+        }
+      },
+      {
+        "id": "sinks-fixtures",
+        "title": "Sinks & Fixtures",
+        "body": "Finishing touches for everyday living.",
+        "href": "/contact#contact-form",
+        "note": "Offered as part of kitchen remodel selections — no separate product catalog page on the source site.",
+        "image": {
+          "src": "/media/services/leo-kitchor-home5-banner6-img1.webp",
+          "alt": "Kitchen fixture and finishes detail from Kitchen & Flooring Depot"
+        }
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "A CLEAR PATH TO YOUR NEW KITCHEN.",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Meet & Explore",
+        "body": "Share your ideas, needs and budget. We’ll walk through options that fit your home."
+      },
+      {
+        "number": "02",
+        "title": "Design & Select",
+        "body": "Work with our team to choose cabinets, surfaces, flooring and finishing details."
+      },
+      {
+        "number": "03",
+        "title": "Install & Enjoy",
+        "body": "We install with care so you can settle into a kitchen that works for everyday life."
+      }
+    ]
+  },
+  "story": {
+    "eyebrow": "OUR STORY",
+    "heading": "Local people. Personal attention.",
+    "body": "Kitchen & Flooring Depot is a locally owned and operated family business in Newington, CT. We keep overhead costs low and pass those savings on to you — with American-made cabinets that are fully assembled and ready to deliver within three working days when available.",
+    "image": {
+      "src": "/media/services/urban-crush.jpg",
+      "alt": "Kitchen & Flooring Depot kitchen transformation with modern countertops and cabinetry",
+      "objectPosition": "center"
+    }
+  },
+  "inspiration": {
+    "heading": "Find your kitchen inspiration.",
+    "linkLabel": "View Our Portfolio",
+    "linkHref": "/our-work",
+    "items": [
+      {
+        "id": "jeff",
+        "caption": "Jeff kitchen remodel photography",
+        "href": "/our-work/jeff-kitchen",
+        "image": {
+          "src": "/media/portfolio/Jeff1-1-scaled-qro8r7gqx5qsmwla0slewhoh4bbsrpgabrl7qfq3xs.jpg",
+          "alt": "Jeff kitchen remodel photography from our portfolio"
+        }
+      },
+      {
+        "id": "flora",
+        "caption": "Flora kitchen project photography",
+        "href": "/our-work/flora-kitchen",
+        "image": {
+          "src": "/media/portfolio/Flora1-1.jpg",
+          "alt": "Flora kitchen project photography from our portfolio"
+        }
+      },
+      {
+        "id": "ali",
+        "caption": "Ali kitchen project photography",
+        "href": "/our-work/ali-kitchen",
+        "image": {
+          "src": "/media/portfolio/Ali-1-1-qro8ictgkbmlb3g4pguvx837qoydabba3yfm1mukj4.jpg",
+          "alt": "Ali kitchen project photography from our portfolio"
+        }
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Let’s create your favourite room.",
+    "body": "Visit our Newington showroom or request a consultation.",
+    "buttonLabel": "Request a Free Quote",
+    "buttonHref": "/contact#contact-form",
+    "backgroundImage": ""
+  }
+}

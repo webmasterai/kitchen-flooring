@@ -1,0 +1,166 @@
+{
+  "id": "services-overview",
+  "slug": "services",
+  "title": "Our Services",
+  "seoDescription": "Good design starts with the right choices. Explore cabinets, flooring, countertops, bathroom vanities, and complete kitchen remodels from Kitchen & Flooring Depot in Newington, CT.",
+  "visibleSections": [
+    "intro",
+    "featureImage",
+    "serviceNav",
+    "serviceRows",
+    "benefits",
+    "cta"
+  ],
+  "intro": {
+    "eyebrow": "OUR SERVICES",
+    "headingLine1": "Good design starts with",
+    "headingLine2": "the right choices.",
+    "body": "Cabinets, flooring, countertops and complete kitchen transformations.",
+    "buttonLabel": "Visit Our Showroom",
+    "buttonHref": "/contact#showroom"
+  },
+  "featureImage": {
+    "src": "/media/hero/kitchen-main-hero-d51cb748-qqt2r33ci2xqcey4jj8t3dmervom0gcngyzg56kbu4.jpeg",
+    "alt": "Spacious remodeled kitchen with off-white cabinetry, stone waterfall island, woven barstools and large windows",
+    "objectPosition": "center 46%"
+  },
+  "navItems": [
+    {
+      "id": "nav-cabinets",
+      "target": "#cabinets",
+      "label": "Cabinets"
+    },
+    {
+      "id": "nav-flooring",
+      "target": "#flooring",
+      "label": "Flooring"
+    },
+    {
+      "id": "nav-countertops",
+      "target": "#countertops",
+      "label": "Countertops"
+    },
+    {
+      "id": "nav-bathroom-vanities",
+      "target": "#bathroom-vanities",
+      "label": "Bathroom Vanities"
+    },
+    {
+      "id": "nav-kitchen-remodel",
+      "target": "#kitchen-remodel",
+      "label": "Kitchen Remodel"
+    }
+  ],
+  "services": [
+    {
+      "id": "cabinets",
+      "number": "01",
+      "title": "Cabinets",
+      "description": "Quality cabinetry that brings style, storage and lasting value to your home.",
+      "linkLabel": "Explore Cabinets",
+      "linkHref": "/cabinets",
+      "image": {
+        "src": "/media/gallery/Jeff2-scaled-qrha9z4ool25y1sz8phe1hhazocoglfiyb0pufpnxs.jpg",
+        "alt": "Custom dark wood kitchen cabinetry with waterfall marble island — Kitchen & Flooring Depot installation",
+        "objectPosition": "center 48%"
+      },
+      "imagePosition": "left",
+      "visible": true,
+      "order": 1
+    },
+    {
+      "id": "flooring",
+      "number": "02",
+      "title": "Flooring",
+      "description": "Durable, beautiful flooring for everyday living, from classic wood looks to modern options.",
+      "linkLabel": "Explore Flooring",
+      "linkHref": "/flooring",
+      "image": {
+        "src": "/media/gallery/flora2-1-qrha893c5ip8nsb3ayo0gx4vs8ugckl8pryo669n5s.jpg",
+        "alt": "Warm hardwood flooring across an open living and dining space with natural light",
+        "objectPosition": "center 60%"
+      },
+      "imagePosition": "right",
+      "visible": true,
+      "order": 2
+    },
+    {
+      "id": "countertops",
+      "number": "03",
+      "title": "Countertops",
+      "description": "Elegant, hard-working surfaces in a range of materials and finishes to fit your design.",
+      "linkLabel": "Explore Countertops",
+      "linkHref": "/countertops",
+      "image": {
+        "src": "/media/services/c96f081c-3d94-4c25-b210-fdd92b9f619e_KitchenFusionStone-1536x1344.jpg",
+        "alt": "Polished stone kitchen countertop surface with elegant grey veining",
+        "objectPosition": "center 55%"
+      },
+      "imagePosition": "left",
+      "visible": true,
+      "order": 3
+    },
+    {
+      "id": "bathroom-vanities",
+      "number": "04",
+      "title": "Bathroom Vanities",
+      "description": "Stylish, functional vanities that add storage, comfort and a refined look to your bathroom.",
+      "linkLabel": "Explore Bathroom Vanities",
+      "linkHref": "/bathroom-vanities",
+      "image": {
+        "src": "/media/gallery/vanity-10-qrppq3nogndez4kn6rb2gdgcxdy9jffwug96rvnzhg.png",
+        "alt": "Double bathroom vanity with gray cabinet unit, storage drawers, stone countertop and dual basins",
+        "objectPosition": "center 45%"
+      },
+      "imagePosition": "right",
+      "visible": true,
+      "order": 4
+    },
+    {
+      "id": "kitchen-remodel",
+      "number": "05",
+      "title": "Kitchen Remodel",
+      "description": "A complete kitchen transformation, from planning to installation, tailored to your home and lifestyle.",
+      "linkLabel": "Explore Kitchen Remodel",
+      "linkHref": "/kitchen-remodel",
+      "image": {
+        "src": "/media/services/3bb437a5e748087f10a451927ead9a61bb31852d_hero-image-1.jpg",
+        "alt": "Complete remodeled kitchen featuring custom island, shaker cabinetry and designer pendant lights",
+        "objectPosition": "center 46%"
+      },
+      "imagePosition": "left",
+      "visible": true,
+      "order": 5
+    }
+  ],
+  "benefits": {
+    "heading": "Here to help, from the first idea.",
+    "items": [
+      {
+        "id": "guidance",
+        "icon": "guidance",
+        "title": "Design guidance",
+        "body": "Expert ideas and layout support to bring your vision to life."
+      },
+      {
+        "id": "selection",
+        "icon": "selection",
+        "title": "Material selection",
+        "body": "A curated range of quality cabinets, flooring and surfaces."
+      },
+      {
+        "id": "installation",
+        "icon": "installation",
+        "title": "Installation support",
+        "body": "Skilled, reliable installation for a smooth, stress-free process."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Let’s find what works for your home.",
+    "buttonLabel": "Request a Free Quote",
+    "buttonHref": "/contact#contact-form",
+    "phoneLabel": "(860) 757-3330",
+    "phoneHref": "tel:+18607573330"
+  }
+}

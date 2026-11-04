@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Kitchen & Flooring Depot (redesign)
 
-## Getting Started
+Next.js App Router rebuild matching the approved forest/ivory homepage design, with content imported from the public source site.
 
-First, run the development server:
+## Local development
 
 ```bash
+cd web
+npm ci
+cp .env.example .env
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) (or the port Next prints if 3000 is already taken).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Production locally:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+# Stop any previous Kitchen & Flooring Node server first.
+# Rebuilding while a standalone server is still running can leave HTML
+# pointing at deleted CSS chunks (unstyled page / giant default SVGs).
+npm run build
+set PORT=3001
+npm run start
+```
 
-## Learn More
+`npm run build` copies static assets into `.next/standalone` and verifies CSS chunk names match prerendered HTML. Always restart `npm run start` after a rebuild.
 
-To learn more about Next.js, take a look at the following resources:
+If another project is already on port 3000 (for example Pink Baby), start this app on a free port with `PORT=3001`.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Scripts
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| Script | Purpose |
+|--------|---------|
+| `npm run import:content` | Re-download source media + write import manifest |
+| `npm run typecheck` | TypeScript |
+| `npm run lint` | ESLint |
+| `npm run audit:deps` | Production dependency audit |
 
-## Deploy on Vercel
+## Documentation
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- `docs/IMPORT_REPORT.md` — source reconciliation
+- `docs/CONTENT_MODEL.md` — CMS-ready content shape
+- `docs/DEPLOYMENT.md` — Coolify / Docker / env checklist
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Keep work local for review. Do not push, deploy, or alter the live WordPress site from this project.

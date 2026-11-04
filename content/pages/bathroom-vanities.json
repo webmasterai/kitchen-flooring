@@ -1,0 +1,294 @@
+{
+  "id": "bathroom-vanities",
+  "slug": "bathroom-vanities",
+  "title": "Bathroom Vanities",
+  "seoDescription": "Bathroom vanities in Newington, CT — floating, freestanding and double configurations with finishes, storage and showroom guidance from Kitchen & Flooring Depot.",
+  "visibleSections": [
+    "hero",
+    "benefits",
+    "styles",
+    "storage",
+    "gallery",
+    "process",
+    "cta"
+  ],
+  "hero": {
+    "eyebrow": "BATHROOM VANITIES",
+    "headingLine1": "A little calm.",
+    "headingLine2": "Every morning.",
+    "body": "Beautiful bathroom vanities that bring together style, storage and everyday comfort.",
+    "ctaLabel": "Explore Vanities",
+    "ctaHref": "#styles",
+    "image": {
+      "src": "/media/gallery/Vanity-8-qrpqfmxu4mbudrhc2so76xh5w838netecua24hsyg4.webp",
+      "alt": "Floating double bathroom vanity with vessel sinks, round gold mirrors and a marble-look finish",
+      "objectPosition": "center 40%"
+    }
+  },
+  "benefits": [
+    {
+      "id": "storage",
+      "icon": "cabinet",
+      "title": "Smart storage",
+      "body": "Keep essentials organized and within reach."
+    },
+    {
+      "id": "finishes",
+      "icon": "brush",
+      "title": "Beautiful finishes",
+      "body": "A range of styles to suit your space."
+    },
+    {
+      "id": "guidance",
+      "icon": "people",
+      "title": "Personal guidance",
+      "body": "Get expert help finding the right vanity for your home."
+    }
+  ],
+  "styles": {
+    "id": "styles",
+    "heading": "Find your everyday style.",
+    "body": "From wall-mounted floating designs to freestanding cabinets and double basins — choose a configuration that fits your bathroom and your morning routine.",
+    "items": [
+      {
+        "id": "floating",
+        "title": "Floating Vanities",
+        "body": "A clean, modern look with an open, airy feel underfoot.",
+        "href": "/gallery?category=bathroom-vanities",
+        "image": {
+          "src": "/media/services/vanity-9-qrppq7f7x6tt7em56oc3akh68lpah3kxcv3wgs36vk.jpg",
+          "alt": "Bathroom vanity installation with open wood shelving and organized towels — Kitchen & Flooring Depot",
+          "objectPosition": "center 45%"
+        },
+        "detail": {
+          "heading": "Floating vanities",
+          "body": "Wall-mounted vanity cabinets create a lighter look and make cleaning the floor easier. Browse floating vanity inspiration in our gallery, then visit the showroom to discuss sizes and finishes."
+        }
+      },
+      {
+        "id": "freestanding",
+        "title": "Freestanding Vanities",
+        "body": "Timeless style with generous storage for everyday essentials.",
+        "href": "/gallery?category=bathroom-vanities",
+        "image": {
+          "src": "/media/services/Vanity-8-qrpqfmxrowr9e1u0f0a38bpg0gw2yudjvzumu63zwo.webp",
+          "alt": "Modern freestanding bathroom vanity with brushed fixtures and framed mirror — Kitchen & Flooring Depot",
+          "objectPosition": "center 40%"
+        },
+        "detail": {
+          "heading": "Freestanding vanities",
+          "body": "Floor-standing vanity cabinets offer a classic silhouette and roomy storage. Compare looks in our gallery and ask our team about configurations that fit your bath."
+        }
+      },
+      {
+        "id": "double",
+        "title": "Double Vanities",
+        "body": "Shared space made easier for busy mornings — with balanced design.",
+        "href": "/gallery?category=bathroom-vanities",
+        "image": {
+          "src": "/media/gallery/vanity-10-qrppq3nogndez4kn6rb2gdgcxdy9jffwug96rvnzhg.png",
+          "alt": "Double bathroom vanity with two undermount basins and soft gray cabinets — inspiration photography",
+          "objectPosition": "72% 55%"
+        },
+        "detail": {
+          "heading": "Double vanities",
+          "body": "Two basins help mornings run more smoothly. See double vanity inspiration in our gallery and talk with our team about layout and storage for your space."
+        }
+      }
+    ]
+  },
+  "storage": {
+    "headingLine1": "Room for everything.",
+    "headingLine2": "Space to unwind.",
+    "body": "Smart layouts and thoughtful storage help keep daily essentials organized — so you can choose a vanity configuration that fits the way you start and end each day.",
+    "image": {
+      "src": "/media/services/vanity-11-qrppq4linhgowt8a7j3avqmuv8ec7qgs9s53cigzyo.jpg",
+      "alt": "Bathroom vanity cabinet storage with clean drawers and hardware — Kitchen & Flooring Depot",
+      "objectPosition": "center 45%"
+    }
+  },
+  "options": {
+    "heading": "Make it feel like you.",
+    "body": "Explore finish looks, handle styles and basin shapes — then visit our showroom to compare options in person.",
+    "note": "Looks and hardware shown for inspiration. Ask our team about current vanity availability from our cabinet partners.",
+    "finishesHeading": "Finishes",
+    "handlesHeading": "Handles",
+    "basinsHeading": "Basins",
+    "finishes": [
+      {
+        "id": "natural-oak",
+        "label": "Natural Oak",
+        "order": 1,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "Natural oak vanity door finish sample from CNC Cabinetry vanity catalog"
+        }
+      },
+      {
+        "id": "soft-white",
+        "label": "Soft White",
+        "order": 2,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "Soft white vanity door finish sample from CNC Cabinetry vanity catalog"
+        }
+      },
+      {
+        "id": "sage-green",
+        "label": "Sage Green",
+        "order": 3,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "Sage green vanity door finish sample from CNC Cabinetry vanity catalog"
+        }
+      },
+      {
+        "id": "deep-walnut",
+        "label": "Deep Walnut",
+        "order": 4,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "Deep walnut vanity door finish sample from CNC Cabinetry vanity catalog"
+        }
+      }
+    ],
+    "handles": [
+      {
+        "id": "bar-pull",
+        "label": "Bar pull",
+        "order": 1,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "Chrome bar pull hardware on a bathroom vanity drawer"
+        }
+      },
+      {
+        "id": "knob",
+        "label": "Knob",
+        "order": 2,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "Square brushed-metal knobs on an off-white bathroom vanity"
+        }
+      },
+      {
+        "id": "matte-black",
+        "label": "Matte black",
+        "order": 3,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "Matte black edge pull on a vanity drawer front — CNC Cabinetry catalog"
+        }
+      },
+      {
+        "id": "cup-pull",
+        "label": "Cup pull",
+        "order": 4,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "Cup-style pull hardware on a bathroom vanity"
+        }
+      }
+    ],
+    "basins": [
+      {
+        "id": "undermount",
+        "label": "Undermount",
+        "order": 1,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "Rectangular undermount bathroom sink in a stone vanity top — CNC Cabinetry catalog"
+        }
+      },
+      {
+        "id": "vessel",
+        "label": "Vessel",
+        "order": 2,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "White vessel sink on a floating vanity — CNC Cabinetry catalog"
+        }
+      },
+      {
+        "id": "rectangular",
+        "label": "Rectangular",
+        "order": 3,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "Rectangular basin detail on a double bathroom vanity"
+        }
+      }
+    ]
+  },
+  "gallery": {
+    "heading": "Thoughtful details, beautifully together.",
+    "body": "Vanity inspiration for calm, well-planned bathrooms.",
+    "viewAllLabel": "View Gallery",
+    "viewAllHref": "/gallery?category=bathroom-vanities",
+    "images": [
+      {
+        "id": "gal-floating",
+        "src": "/media/gallery/c1c1f257dec3e9231e666786ccb89d04-qragxv4dn8kn67lyqil73ahlfbxh4bjsy5n1n6fp0k.jpg",
+        "alt": "Floating double bathroom vanity with wall-mounted faucets — inspiration photography",
+        "caption": "Floating vanity inspiration",
+        "objectPosition": "center 35%"
+      },
+      {
+        "id": "gal-freestanding",
+        "src": "/media/gallery/vanity-9-qrppq7f17zik9kf6ksxkqci7axfqe7uu6yv4oziesk.jpg",
+        "alt": "Freestanding off-white bathroom vanity with a round mirror — inspiration photography",
+        "caption": "Freestanding vanity inspiration",
+        "objectPosition": "center 45%"
+      },
+      {
+        "id": "gal-double",
+        "src": "/media/gallery/vanity-11-qrppq4linhepaqja19pp0v7tirtmr4jn6kwo95mlb8.jpg",
+        "alt": "Sage green double bathroom vanity with two sinks — inspiration photography",
+        "caption": "Double vanity inspiration",
+        "objectPosition": "center 55%"
+      }
+    ]
+  },
+  "process": {
+    "heading": "A simple way to your new vanity.",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Explore your style",
+        "body": "Browse finishes, configurations and ideas."
+      },
+      {
+        "number": "2",
+        "title": "Plan your fit",
+        "body": "Consider your space, storage needs and basin options."
+      },
+      {
+        "number": "3",
+        "title": "Bring it home",
+        "body": "Get a personalized quote and take the next step with confidence."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Let’s find your perfect vanity.",
+    "body": "Get expert guidance and a personalized quote for your space.",
+    "buttonLabel": "Request a Free Quote",
+    "buttonHref": "/contact?service=bathroom-vanities#contact-form",
+    "decorImage": {
+      "src": "",
+      "alt": ""
+    }
+  },
+  "missingAssetsNote": "Individual finish swatches, handle hardware samples, and basin style cutouts are not published on https://website.kitchenflooringdepot.com/ and await source photography. Vanity options section is hidden from public display until source swatches are available."
+}

@@ -1,0 +1,31 @@
+{
+  "page": "cabinets",
+  "recordedAt": "2026-11-03",
+  "sourcePolicy": "Strictly sourced from https://website.kitchenflooringdepot.com/",
+  "assets": [
+    {
+      "slot": "hero.image",
+      "localPath": "public/media/gallery/Jeff2-scaled-qrha9z4ool25y1sz8phe1hhazocoglfiyb0pufpnxs.jpg",
+      "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/Jeff2-scaled.jpg",
+      "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+      "notes": "Custom dark wood kitchen cabinetry installation with waterfall island and modern fixtures."
+    },
+    {
+      "slot": "storage.image",
+      "localPath": "public/media/services/e131a664-dc87-45fe-b016-b5174ae319f6-1-qrtm8riqi71u6ne0q4bu85f40ej7ar952l4r8bapag.jpeg",
+      "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/e131a664-dc87-45fe-b016-b5174ae319f6-1.jpeg",
+      "pageSource": "https://website.kitchenflooringdepot.com/cabinets/",
+      "notes": "Cabinetry craftsmanship and detail uploaded on the original cabinets page."
+    }
+  ],
+  "missingRequirements": [
+    {
+      "slot": "options.woods (Oak, Alder, Hickory, Birch, Maple, Cherry)",
+      "reason": "Individual wood species swatches are not published on https://website.kitchenflooringdepot.com/. The options section is kept unpublished (visible: false) until source swatches are photographed and supplied."
+    },
+    {
+      "slot": "options.finishes (Painted, Stained, Glazed, Distressed)",
+      "reason": "Individual finish samples are not published as standalone swatches on https://website.kitchenflooringdepot.com/. Held as draft CMS fields until official source swatches are provided."
+    }
+  ]
+}

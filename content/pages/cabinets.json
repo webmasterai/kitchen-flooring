@@ -1,0 +1,284 @@
+{
+  "id": "cabinets",
+  "slug": "cabinets",
+  "title": "Cabinets",
+  "seoDescription": "Kitchen cabinets in Newington, CT — style, storage and professional installation from Kitchen & Flooring Depot.",
+  "visibleSections": [
+    "hero",
+    "benefits",
+    "styles",
+    "storage",
+    "process",
+    "gallery",
+    "cta"
+  ],
+  "hero": {
+    "breadcrumb": [
+      {
+        "label": "Home",
+        "href": "/"
+      },
+      {
+        "label": "Services",
+        "href": "/services"
+      },
+      {
+        "label": "Cabinets"
+      }
+    ],
+    "headingLine1": "Cabinets that",
+    "headingLine2": "fit your life.",
+    "body": "The right cabinets bring together style, storage and selection — so your kitchen works beautifully for the way you live.",
+    "ctaLabel": "Explore Cabinets",
+    "ctaHref": "#styles",
+    "image": {
+      "src": "/media/gallery/Jeff2-scaled-qrha9z4ool25y1sz8phe1hhazocoglfiyb0pufpnxs.jpg",
+      "alt": "Custom white shaker kitchen cabinetry with recessed panels and modern hardware",
+      "objectPosition": "center 50%"
+    }
+  },
+  "benefits": [
+    {
+      "id": "storage",
+      "icon": "cabinet",
+      "title": "Thoughtful storage",
+      "body": "Smart solutions for everyday living."
+    },
+    {
+      "id": "finishes",
+      "icon": "brush",
+      "title": "Beautiful finishes",
+      "body": "A look that fits your style."
+    },
+    {
+      "id": "install",
+      "icon": "tools",
+      "title": "Installation support",
+      "body": "Guidance from start to finish."
+    }
+  ],
+  "styles": {
+    "id": "styles",
+    "heading": "A style for every kitchen.",
+    "items": [
+      {
+        "id": "classic-shaker",
+        "title": "Classic Shaker",
+        "href": "/gallery?category=cabinets",
+        "image": {
+          "src": "/media/gallery/Jeff2-scaled-qrha9z4ool25y1sz8phe1hhazocoglfiyb0pufpnxs.jpg",
+          "alt": "White recessed-panel kitchen cabinetry — inspiration photography",
+          "objectPosition": "center 38%"
+        },
+        "detail": {
+          "heading": "Classic recessed-panel looks",
+          "body": "Timeless cabinet lines with lasting appeal. Browse related inspiration in our gallery, then visit the showroom to discuss styles that fit your home."
+        }
+      },
+      {
+        "id": "modern-minimal",
+        "title": "Modern & Minimal",
+        "href": "/gallery?category=cabinets",
+        "image": {
+          "src": "/media/gallery/L3-qrhaaivao3t6pv0b1g0jzuhzgrndy8lw10pwx8web4.jpg",
+          "alt": "Flat-panel kitchen cabinetry with clean lines — inspiration photography",
+          "objectPosition": "center 42%"
+        },
+        "detail": {
+          "heading": "Clean, contemporary cabinetry",
+          "body": "Simple profiles and calm finishes for kitchens that feel open and uncluttered. See more cabinetry inspiration in our gallery."
+        }
+      },
+      {
+        "id": "natural-wood",
+        "title": "Natural Wood",
+        "href": "/gallery?category=cabinets",
+        "image": {
+          "src": "/media/gallery/kyle-head-364351-unsplash-1-qqt0i57rrmed1n5k792fgr6ev050b2ynuec3ipl4s0.jpg",
+          "alt": "Kitchen with wood and painted cabinetry around an island — inspiration photography",
+          "objectPosition": "28% 58%"
+        },
+        "detail": {
+          "heading": "Warm wood character",
+          "body": "Wood and mixed-finish cabinetry can add warmth and contrast. Ask our team which combinations are available for your project."
+        }
+      }
+    ]
+  },
+  "storage": {
+    "headingLine1": "Make every inch",
+    "headingLine2": "work harder.",
+    "body": "Thoughtful storage solutions keep your kitchen organized and within reach — from deep drawers and pullouts to custom inserts that make the most of every space.",
+    "image": {
+      "src": "/media/services/e131a664-dc87-45fe-b016-b5174ae319f6-1-qrtm8riqi71u6ne0q4bu85f40ej7ar952l4r8bapag.jpeg",
+      "alt": "Custom kitchen cabinetry detail and craftsmanship from Kitchen & Flooring Depot",
+      "objectPosition": "center 45%",
+      "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/e131a664-dc87-45fe-b016-b5174ae319f6-1.jpeg"
+    },
+    "missingAssetsNote": ""
+  },
+  "options": {
+    "heading": "Choose your wood. Find your finish.",
+    "note": "Ask our team about available combinations.",
+    "woodsHeading": "Wood options",
+    "finishesHeading": "Finish options",
+    "woods": [
+      {
+        "id": "oak",
+        "label": "Oak",
+        "order": 1,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "CNC Cabinetry Country Oak raised-panel door sample"
+        }
+      },
+      {
+        "id": "alder",
+        "label": "Alder",
+        "order": 2,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "Alder wood cabinet swatch"
+        }
+      },
+      {
+        "id": "hickory",
+        "label": "Hickory",
+        "order": 3,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "Fabuwood Siena Hickory Rock door sample"
+        }
+      },
+      {
+        "id": "birch",
+        "label": "Birch",
+        "order": 4,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "Wolf Classic Grove Sandalwood stain on birch door sample"
+        }
+      },
+      {
+        "id": "maple",
+        "label": "Maple",
+        "order": 5,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "Wolf Artisan Norwich natural maple door sample"
+        }
+      },
+      {
+        "id": "cherry",
+        "label": "Cherry",
+        "order": 6,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "Cherry wood cabinet swatch"
+        }
+      }
+    ],
+    "finishes": [
+      {
+        "id": "painted",
+        "label": "Painted",
+        "order": 1,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "Wolf Classic Dartmouth white painted door sample"
+        }
+      },
+      {
+        "id": "stained",
+        "label": "Stained",
+        "order": 2,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "Fabuwood Allure Galaxy Timber stained door sample"
+        }
+      },
+      {
+        "id": "glazed",
+        "label": "Glazed",
+        "order": 3,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "J&K Cabinetry Creme Glazed A7 door sample"
+        }
+      },
+      {
+        "id": "distressed",
+        "label": "Distressed",
+        "order": 4,
+        "visible": false,
+        "image": {
+          "src": "",
+          "alt": "Distressed cabinet finish sample"
+        }
+      }
+    ],
+    "missingAssetsNote": "MISSING ASSETS (CMS fields retained, unpublished until upload): Alder wood swatch; Cherry wood swatch; Distressed finish sample. Confirmed on kitchenflooringdepot.com/cabinets and Schrock/Wolf literature, but no correctly labeled official vendor image file was obtainable (Schrock/Diamond CDN blocked). Upload via options.woods[id=alder|cherry].image.src and options.finishes[id=distressed].image.src, then set visible:true."
+  },
+  "process": {
+    "heading": "Our cabinet process.",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Choose your cabinets",
+        "body": "Explore styles, materials and finishes that fit your kitchen and your life."
+      },
+      {
+        "number": "2",
+        "title": "Assembly & preparation",
+        "body": "We prepare your cabinets for a smooth, well-organized installation."
+      },
+      {
+        "number": "3",
+        "title": "Professional installation",
+        "body": "Our team handles the details so your new cabinets look and function their best."
+      }
+    ]
+  },
+  "gallery": {
+    "heading": "Imagine the possibilities.",
+    "images": [
+      {
+        "id": "insp-white",
+        "src": "/media/gallery/kitchen-amy-2-scaled-qrhaae63pxmr3t74svzf5doohuajvr38cdghiv3d68.jpg",
+        "alt": "White kitchen cabinets with black hardware beside a range — inspiration photography",
+        "caption": "White cabinetry inspiration",
+        "objectPosition": "center 40%"
+      },
+      {
+        "id": "insp-character",
+        "src": "/media/services/Photo12-1920w-2.jpg",
+        "alt": "Deep blue kitchen cabinetry with a stone island — inspiration photography",
+        "caption": "Cabinetry with character",
+        "objectPosition": "55% 40%"
+      },
+      {
+        "id": "insp-island",
+        "src": "/media/gallery/j6-1-qro8eevsohgfgkcunfbidqw9e0mim5f9y4tygeqrn4.jpg",
+        "alt": "White kitchen cabinets surrounding a center island — inspiration photography",
+        "caption": "Island cabinetry inspiration",
+        "objectPosition": "center 45%"
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Let’s plan your perfect cabinets.",
+    "body": "Bring your ideas to life with expert guidance, beautiful options and a kitchen that works for you.",
+    "buttonLabel": "Request a Free Quote",
+    "buttonHref": "/contact?service=cabinets#contact-form"
+  },
+  "missingAssetsNote": "Individual wood species swatches (Oak, Alder, Hickory, Birch, Maple, Cherry) and finish samples (Painted, Stained, Glazed, Distressed) are not published as individual product swatches on https://website.kitchenflooringdepot.com/ and await source photography. Options section is hidden from public display until original source swatches are supplied."
+}

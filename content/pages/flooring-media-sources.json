@@ -1,0 +1,41 @@
+{
+  "page": "flooring",
+  "recordedAt": "2026-11-03",
+  "sourcePolicy": "Strictly sourced from https://website.kitchenflooringdepot.com/",
+  "assets": [
+    {
+      "slot": "hero.image",
+      "localPath": "public/media/services/laminate-vs-vinyl-feature-pic-1_2048x.webp",
+      "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/laminate-vs-vinyl-feature-pic-1_2048x.webp",
+      "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+      "notes": "High-resolution flooring hero photograph from source website."
+    },
+    {
+      "slot": "options.hardwood",
+      "localPath": "public/media/gallery/flora2-1-qrha893c5ip8nsb3ayo0gx4vs8ugckl8pryo669n5s.jpg",
+      "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/flora2-1.jpg",
+      "pageSource": "https://website.kitchenflooringdepot.com/gallery/",
+      "notes": "Real hardwood flooring installation in open space."
+    },
+    {
+      "slot": "options.tile",
+      "localPath": "public/media/services/ceramic-porcelain-tile_silk-light-grey-matte-6de900f0f8347293d4adac1743d3f12f_fb3761a9-5d27-4c0a-8926-38996d4c772e.webp",
+      "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/ceramic-porcelain-tile_silk-light-grey-matte-6de900f0f8347293d4adac1743d3f12f_fb3761a9-5d27-4c0a-8926-38996d4c772e.webp",
+      "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+      "notes": "Ceramic & porcelain tile flooring from source website."
+    },
+    {
+      "slot": "lifestyle.image",
+      "localPath": "public/media/services/leo-kitchor-home4-banner4-img2.jpg",
+      "sourceUrl": "https://website.kitchenflooringdepot.com/wp-content/uploads/2024/07/leo-kitchor-home4-banner4-img2.jpg",
+      "pageSource": "https://website.kitchenflooringdepot.com/flooring/",
+      "notes": "Flooring lifestyle photograph from source website."
+    }
+  ],
+  "missingRequirements": [
+    {
+      "slot": "finishes.items (Light Oak, Warm Oak, Walnut, Stone Look, Soft Grey)",
+      "reason": "Individual flooring finish swatches are not published on https://website.kitchenflooringdepot.com/. Held in CMS with visible: false."
+    }
+  ]
+}

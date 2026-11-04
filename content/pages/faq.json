@@ -1,0 +1,32 @@
+{
+  "id": "faq",
+  "slug": "faq",
+  "title": "Frequently Asked Questions",
+  "intro": "Answers below are drawn only from publicly stated information on the Kitchen & Flooring Depot source site. Where the source does not publish a detail, we say so.",
+  "items": [
+    {
+      "question": "Where is your showroom?",
+      "answer": "2434 Berlin Turnpike #7, Newington, CT 06111."
+    },
+    {
+      "question": "How can I request an estimate?",
+      "answer": "Call (860) 757-3330, email hr@kitchenflooringdepot.com, visit the showroom, or use the quote form on this website. The source site offers a free in-store estimate."
+    },
+    {
+      "question": "What services do you offer?",
+      "answer": "Kitchen remodeling, cabinets, flooring (including tile, hardwood, laminate and vinyl), countertops, and bathroom vanities."
+    },
+    {
+      "question": "Do you install what you sell?",
+      "answer": "Yes. The kitchen remodeling page states that Kitchen & Flooring Depot can install products from flooring to countertops, sinks, and faucets."
+    },
+    {
+      "question": "What are your exact opening hours?",
+      "answer": "The source site states “We are open 7 Days a Week” but does not publish exact daily open/close times. Please call to confirm before visiting."
+    },
+    {
+      "question": "Do you publish product prices online?",
+      "answer": "No. The public source site does not list SKUs, stock counts, or checkout pricing. Request a quote for current pricing."
+    }
+  ]
+}

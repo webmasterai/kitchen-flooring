@@ -1,0 +1,33 @@
+{
+  "id": "privacy",
+  "slug": "privacy-policy",
+  "title": "Privacy Policy",
+  "effectiveDate": "2026-10-31",
+  "note": "The source WordPress site did not publish a privacy policy page (404). This policy describes how THIS redesign handles enquiry data.",
+  "sections": [
+    {
+      "heading": "Who we are",
+      "body": "Kitchen & Flooring Depot operates a showroom at 2434 Berlin Turnpike #7, Newington, CT 06111. Contact: hr@kitchenflooringdepot.com, (860) 757-3330."
+    },
+    {
+      "heading": "Information we collect",
+      "body": "When you submit a quote or contact form we collect your name, email, phone, service interest, and project message. Optional fields such as area size or budget are stored only if you provide them."
+    },
+    {
+      "heading": "How we use information",
+      "body": "We use enquiry details to respond to your request and follow up about design or installation services. We do not sell personal information."
+    },
+    {
+      "heading": "Storage",
+      "body": "Enquiries are saved on the application server under a protected data directory before any email notification is attempted. Access should be limited to authorized staff and hosting operators."
+    },
+    {
+      "heading": "Cookies and analytics",
+      "body": "This site does not require marketing cookies for core browsing. If analytics or advertising cookies are added later, this policy should be updated before they are enabled."
+    },
+    {
+      "heading": "Contact",
+      "body": "For privacy questions, email hr@kitchenflooringdepot.com or call (860) 757-3330."
+    }
+  ]
+}

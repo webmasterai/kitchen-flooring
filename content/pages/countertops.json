@@ -1,0 +1,237 @@
+{
+  "id": "countertops",
+  "slug": "countertops",
+  "title": "Countertops",
+  "seoDescription": "Granite, quartz and marble countertops in Newington, CT — design guidance, carefully selected materials and professional installation from Kitchen & Flooring Depot.",
+  "visibleSections": [
+    "hero",
+    "benefits",
+    "materials",
+    "feature",
+    "swatches",
+    "gallery",
+    "process",
+    "cta"
+  ],
+  "hero": {
+    "breadcrumb": [
+      { "label": "Home", "href": "/" },
+      { "label": "Services", "href": "/services" },
+      { "label": "Countertops" }
+    ],
+    "headingLine1": "Beautiful surfaces.",
+    "headingLine2": "Everyday possibilities.",
+    "body": "From classic to contemporary, we help you find the perfect countertop to fit your style, your home and the way you live.",
+    "ctaLabel": "Explore Countertops",
+    "ctaHref": "#materials",
+    "image": {
+      "src": "/media/gallery/kitchen-countertop-trends-in-2022-qro0fxmlq9acz0hfhlcwg1ermcn8n44d86ygwfic1c.jpeg",
+      "alt": "Bright kitchen with a large stone island countertop and pendant lighting",
+      "objectPosition": "68% 45%"
+    }
+  },
+  "benefits": [
+    {
+      "id": "design",
+      "icon": "people",
+      "title": "Design guidance",
+      "body": "Work with our team to choose a surface that fits your kitchen and daily routine."
+    },
+    {
+      "id": "materials",
+      "icon": "layers",
+      "title": "Carefully selected materials",
+      "body": "Explore granite, quartz and marble options available through our Newington showroom."
+    },
+    {
+      "id": "install",
+      "icon": "tools",
+      "title": "Professional installation",
+      "body": "We can install the countertops you select as part of a complete kitchen solution."
+    }
+  ],
+  "materials": {
+    "id": "materials",
+    "heading": "Find your perfect surface.",
+    "body": "Choose from popular countertop materials for kitchens and baths — each with its own look, feel and care considerations.",
+    "items": [
+      {
+        "id": "quartz",
+        "title": "Quartz",
+        "body": "Engineered surfaces with a wide range of colors and patterns, valued for a non-porous, easy-to-maintain finish.",
+        "linkLabel": "Learn more",
+        "image": {
+          "src": "/media/services/c96f081c-3d94-4c25-b210-fdd92b9f619e_KitchenFusionStone-1024x896.jpg",
+          "alt": "Countertop surface detail on a kitchen island — inspiration photography",
+          "objectPosition": "center 35%"
+        },
+        "detail": {
+          "heading": "Quartz countertops",
+          "body": "Quartz offers consistent patterns and a non-porous surface that combines beauty with practicality for everyday kitchens. Care needs differ from natural stone — we’ll help you choose the right option for your home."
+        }
+      },
+      {
+        "id": "granite",
+        "title": "Granite",
+        "body": "Natural stone with distinctive movement and durability for kitchens that see everyday use.",
+        "linkLabel": "Learn more",
+        "image": {
+          "src": "/media/services/urban-crush.jpg",
+          "alt": "Countertop surface on a kitchen island — inspiration photography",
+          "objectPosition": "center 28%"
+        },
+        "detail": {
+          "heading": "Granite countertops",
+          "body": "Granite brings natural variation and lasting strength. Our team can help you compare finishes and care needs so the surface fits how you cook and clean."
+        }
+      },
+      {
+        "id": "marble",
+        "title": "Marble",
+        "body": "Classic stone with soft veining for a refined look in kitchens and baths.",
+        "linkLabel": "Learn more",
+        "image": {
+          "src": "/media/gallery/Flora8-qrha8bwuq0t3mm6zuhvw6ef9kegjznwfq5x4m05gts.jpg",
+          "alt": "Close countertop surface detail — inspiration photography",
+          "objectPosition": "center 70%"
+        },
+        "detail": {
+          "heading": "Marble countertops",
+          "body": "Marble delivers timeless character. Care needs can differ from engineered surfaces — we’ll explain everyday cleaning that fits the material you choose."
+        }
+      }
+    ]
+  },
+  "feature": {
+    "headingLine1": "Made to look beautiful.",
+    "headingLine2": "Built for real life.",
+    "body": "We help you select surfaces that suit your style and how you use your kitchen — then install them as part of a complete, thoughtfully planned space.",
+    "image": {
+      "src": "/media/services/img-1.2.avif",
+      "alt": "Kitchen island countertop surface and edge with sink and faucet",
+      "objectPosition": "center 40%"
+    },
+    "points": [
+      {
+        "id": "care",
+        "icon": "droplet",
+        "title": "Simple care",
+        "body": "We’ll explain everyday cleaning that fits the material you choose."
+      },
+      {
+        "id": "selection",
+        "icon": "grid",
+        "title": "Thoughtful selection",
+        "body": "Compare looks and practical needs before you decide."
+      },
+      {
+        "id": "fit",
+        "icon": "home",
+        "title": "A perfect fit",
+        "body": "Surfaces planned around your cabinets, layout and lifestyle."
+      }
+    ]
+  },
+  "swatches": {
+    "heading": "Explore more stone options.",
+    "body": "Close looks at countertop surfaces from our inspiration photography.",
+    "items": [
+      {
+        "id": "swatch-white-veined",
+        "label": "White veined surface",
+        "description": "Light surface with soft gray movement",
+        "image": {
+          "src": "/media/gallery/Flora8-qrha8bwuq0t3mm6zuhvw6ef9kegjznwfq5x4m05gts.jpg",
+          "alt": "Close-up of a white veined countertop surface",
+          "objectPosition": "center 78%"
+        }
+      },
+      {
+        "id": "swatch-warm-cream",
+        "label": "Warm cream surface",
+        "description": "Cream base with soft tan veining",
+        "image": {
+          "src": "/media/services/img-1.2.avif",
+          "alt": "Close view of a warm cream countertop surface",
+          "objectPosition": "35% 30%"
+        }
+      },
+      {
+        "id": "swatch-light-island",
+        "label": "Light island surface",
+        "description": "Bright stone with subtle movement",
+        "image": {
+          "src": "/media/services/c96f081c-3d94-4c25-b210-fdd92b9f619e_KitchenFusionStone-1024x896.jpg",
+          "alt": "Close view of a light kitchen island countertop surface",
+          "objectPosition": "55% 42%"
+        }
+      },
+      {
+        "id": "swatch-bold-veined",
+        "label": "Bold veined surface",
+        "description": "High-contrast charcoal and gold movement",
+        "image": {
+          "src": "/media/gallery/458f61cbe9a42d443cdfde46dbabfdad-qrodgrkmjf2zt7h9u8xy3qbi51tzw9cn0p124wd8j4.jpg",
+          "alt": "Close view of a boldly veined countertop surface",
+          "objectPosition": "50% 35%"
+        }
+      }
+    ],
+    "missingAssetsNote": "Dedicated slab/swatch close-ups with verified names (e.g. Carrara Marble, White Granite, Calacatta Quartz, Titanium Granite) are not present in the media library. Current items use surface-focused crops of existing countertop photography with descriptive labels only."
+  },
+  "gallery": {
+    "heading": "See the details come together.",
+    "body": "Inspiration photography showing how countertops finish a kitchen.",
+    "linkLabel": "View More in Our Gallery",
+    "linkHref": "/gallery?category=countertops",
+    "images": [
+      {
+        "id": "insp-1",
+        "src": "/media/gallery/kitchen-countertop-trends-in-2022-qro0fxmlq9acz0hfhlcwg1ermcn8n44d86ygwfic1c.jpeg",
+        "alt": "Kitchen island countertop with seating and pendant lights",
+        "caption": "Island seating with a bright stone surface",
+        "objectPosition": "center 55%"
+      },
+      {
+        "id": "insp-2",
+        "src": "/media/services/img-8.2.avif",
+        "alt": "Kitchen island with a waterfall countertop edge",
+        "caption": "Waterfall island edge detail",
+        "objectPosition": "center 45%"
+      },
+      {
+        "id": "insp-3",
+        "src": "/media/services/img-1.2.avif",
+        "alt": "Kitchen island countertop surface with sink and faucet",
+        "caption": "Island surface and edge detail",
+        "objectPosition": "center 35%"
+      }
+    ]
+  },
+  "process": {
+    "intro": "How it works.",
+    "steps": [
+      {
+        "number": "1",
+        "title": "Choose your surface",
+        "body": "Browse granite, quartz and marble options with our team."
+      },
+      {
+        "number": "2",
+        "title": "Plan the details",
+        "body": "Confirm layout, edge profile and finishes for your space."
+      },
+      {
+        "number": "3",
+        "title": "Complete your space",
+        "body": "We install with care so you can enjoy the finished kitchen."
+      }
+    ]
+  },
+  "cta": {
+    "heading": "Let’s find your perfect finish.",
+    "body": "Visit our Newington showroom or request a free quote — tell us about your countertop project and we’ll help you take the next step.",
+    "buttonLabel": "Request a Free Quote",
+    "buttonHref": "/contact?service=countertops#contact-form"
+  }
+}

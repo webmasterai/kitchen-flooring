@@ -1,0 +1,134 @@
+[
+  {
+    "id": "cabinets",
+    "slug": "cabinets",
+    "name": "Cabinets",
+    "navLabel": "Cabinets",
+    "shortDescription": "Stylish, functional cabinets for every space.",
+    "cardDescription": "Stylish, functional cabinets for every space.",
+    "summary": "Upgrade your kitchen with our premium cabinet services. We offer expert design, high-quality materials, and flawless installation to transform your kitchen into a functional and stylish space.",
+    "heroImage": "/media/services/Photo12-1920w-2.jpg",
+    "cardImage": "/media/services/Photo12-1920w-2.jpg",
+    "sourceUrl": "https://website.kitchenflooringdepot.com/cabinets/",
+    "features": [
+      {
+        "title": "Surprisingly Smart",
+        "body": "Equipped inside with maximum function and versatility, our cabinets with storage are thoughtfully designed to improve home organization and make busy lives more manageable."
+      },
+      {
+        "title": "Classically Beautiful",
+        "body": "With timeless appeal and an endless array of options, Kitchen & Flooring Depot classic cabinets are just the right offering to transform your space into an enduring expression of your personality."
+      }
+    ],
+    "pricingNote": "Request a quote — pricing is not published on the source site."
+  },
+  {
+    "id": "flooring",
+    "slug": "flooring",
+    "name": "Flooring",
+    "navLabel": "Flooring",
+    "shortDescription": "Durable and beautiful flooring to fit your lifestyle.",
+    "cardDescription": "Durable and beautiful flooring to fit your lifestyle.",
+    "summary": "Transform your space with our exceptional flooring solutions. We provide expert design, premium materials, and professional installation to create beautiful, durable floors that enhance any room.",
+    "heroImage": "/media/services/laminate-vs-vinyl-feature-pic-1_2048x.webp",
+    "cardImage": "/media/services/laminate-vs-vinyl-feature-pic-1_2048x.webp",
+    "sourceUrl": "https://website.kitchenflooringdepot.com/flooring/",
+    "intro": "We offer exceptional hardwood, tile, laminate, and vinyl base installations at excellent prices.",
+    "types": [
+      {
+        "id": "tiles",
+        "slug": "tiles",
+        "name": "Tiles",
+        "description": "Tile is one of the most expressive methods of personalizing a space. With color, size, and shape, one can dramatically change the feeling of a room. We offer patterns and styles in porcelain and ceramic.",
+        "image": "/media/services/ceramic-porcelain-tile_silk-light-grey-matte-6de900f0f8347293d4adac1743d3f12f_fb3761a9-5d27-4c0a-8926-38996d4c772e-1024x725.webp"
+      },
+      {
+        "id": "hardwood",
+        "slug": "hardwood",
+        "name": "Hardwood Floor",
+        "description": "With our wide selection, you’ll have no problem finding the exotic hardwood floors you’ve dreamed of. We ensure your satisfaction with all materials and installation, providing you with peace of mind.",
+        "image": "/media/services/leo-kitchor-home4-banner4-img2.jpg"
+      },
+      {
+        "id": "laminates-vinyl",
+        "slug": "laminates-vinyl",
+        "name": "Laminates and Vinyl",
+        "description": "Kitchen Depot has an excellent selection of laminates and vinyl base available at affordable rates. With these options, you’ll have no reason not to upgrade your home’s floors. Laminate floors are durable and stylish for everyday living.",
+        "image": "/media/services/laminate-vs-vinyl-feature-pic-1_2048x-1024x713.webp"
+      }
+    ],
+    "pricingNote": "Request a quote — pricing is not published on the source site."
+  },
+  {
+    "id": "countertops",
+    "slug": "countertops",
+    "name": "Countertops",
+    "navLabel": "Countertops",
+    "shortDescription": "Premium surfaces that make a statement.",
+    "cardDescription": "Premium surfaces that make a statement.",
+    "summary": "Elevate your kitchen with our premium countertops, designed to combine elegance with durability. Crafted from high-quality materials like granite, quartz, and marble, our countertops offer a sleek, modern look while standing up to daily wear and tear.",
+    "heroImage": "/media/services/c96f081c-3d94-4c25-b210-fdd92b9f619e_KitchenFusionStone-1024x896.jpg",
+    "cardImage": "/media/services/c96f081c-3d94-4c25-b210-fdd92b9f619e_KitchenFusionStone-1024x896.jpg",
+    "sourceUrl": "https://website.kitchenflooringdepot.com/countertops/",
+    "features": [
+      {
+        "title": "Innovative Designs",
+        "body": "Experience the fusion of creativity and functionality with our countertop designs. Our expert team brings your ideas to life, delivering innovative solutions that enhance the beauty and practicality of your kitchen."
+      },
+      {
+        "title": "Superior Craftsmanship",
+        "body": "Trust in our dedication to quality and attention to detail. Our professional craftsmanship ensures that every countertop is meticulously crafted and flawlessly installed, providing you with enduring elegance and reliability."
+      },
+      {
+        "title": "High Quality Promise",
+        "body": "Our commitment to excellence is unwavering. We use only the finest materials and meticulous craftsmanship to ensure that every countertop meets the highest standards of quality and durability."
+      },
+      {
+        "title": "Craft Inspired Countertop Spaces",
+        "body": "Experience the versatility of quartz countertops, engineered for excellence. With a wide range of colors and patterns, quartz offers a non-porous, easy-to-maintain surface that combines beauty with practicality."
+      }
+    ],
+    "galleryPrefix": "img-",
+    "pricingNote": "Request a quote — pricing is not published on the source site. Countertop showcase images are gallery photography from the source site, not individually named SKUs."
+  },
+  {
+    "id": "bathroom-vanities",
+    "slug": "bathroom-vanities",
+    "name": "Bathroom Vanities",
+    "navLabel": "Bathroom Vanities",
+    "shortDescription": "Elegant designs for a more relaxing home.",
+    "cardDescription": "Elegant designs for a more relaxing home.",
+    "summary": "Bathroom vanities blend style and functionality, transforming any bathroom into a sanctuary of comfort and elegance. Discover the perfect combination of form and function with our exquisite collection.",
+    "heroImage": "/media/services/vanity-10-qrppq3nm0xstzexbiywyhron1mr3uv02dltrhjz0y0.png",
+    "cardImage": "/media/services/vanity-9-qrppq7f7x6tt7em56oc3akh68lpah3kxcv3wgs36vk.jpg",
+    "sourceUrl": "https://website.kitchenflooringdepot.com/bathroom-vanities/",
+    "pricingNote": "Request a quote — pricing is not published on the source site. Vanity photos are showcase imagery from the source gallery, not inventoried product SKUs."
+  },
+  {
+    "id": "kitchen-remodel",
+    "slug": "kitchen-remodel",
+    "name": "Kitchen Remodel",
+    "navLabel": "Kitchen Remodel",
+    "shortDescription": "Complete kitchen remodeling from design to installation.",
+    "cardDescription": "Complete kitchen remodeling from design to installation.",
+    "summary": "Kitchen & Flooring Depot is a kitchen remodeling company in Newington, CT, helping homeowners turn outdated kitchens into spaces that work and look great. As custom kitchen remodelers, we handle design, cabinets, countertops, flooring and installation.",
+    "heroImage": "/media/services/3bb437a5e748087f10a451927ead9a61bb31852d_hero-image-1.jpg",
+    "cardImage": "/media/services/urban-crush-1024x832.jpg",
+    "sourceUrl": "https://website.kitchenflooringdepot.com/kitchen-remodel/",
+    "sections": [
+      {
+        "title": "Always Wanted",
+        "body": "The kitchen is the heart of the home, and that’s why it’s so important to have a kitchen that meets your family’s needs. When you remodel your kitchen, you can create a space that does just that. At Kitchen & Flooring Depot in Newington, CT, we offer kitchen cabinets, flooring, backsplashes, sinks, faucets, and countertops that help you create the kitchen of your dreams. We also offer a free in-store design and estimate."
+      },
+      {
+        "title": "Our Expertise",
+        "body": "When you work with Kitchen & Flooring Depot to create your new kitchen, you won’t have to worry about pushy contractors trying to tell you what is best for your family. Instead, we help you select cabinets, sinks, and fixtures that work with your family’s routine — some families need a large countertop for prepping, and others need two sinks to keep up with a rotating pile of dishes. We have hundreds of colors and styles for cabinets so that you can choose something that works for you."
+      },
+      {
+        "title": "Locally Owned and Operated Family Business",
+        "body": "Kitchen & Flooring Depot is not a large company, so we keep our overhead costs low and pass those savings on to you. We have American-made cabinets that are fully assembled and ready to deliver within three working days. When you’re ready to install a high-quality, customized kitchen in your home, Kitchen & Flooring Depot should be your first call. We can also install all of our products, from flooring to countertops, sinks, and faucets."
+      }
+    ],
+    "pricingNote": "Free in-store design and estimate. Request a quote — published package prices are not available on the source site."
+  }
+]
