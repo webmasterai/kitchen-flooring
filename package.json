@@ -6,13 +6,14 @@
     "node": ">=24.14.0"
   },
   "scripts": {
-    "dev": "next dev",
-    "build": "next build && node scripts/prepare-standalone.mjs",
-    "start": "node .next/standalone/server.js",
-    "start:next": "next start",
+    "dev": "node init && next dev",
+    "build": "node init && next build && node scripts/prepare-standalone.mjs",
+    "start": "node init && node .next/standalone/server.js",
+    "start:next": "node init && next start",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit",
     "import:content": "node scripts/import-source.mjs",
+    "bootstrap:admin": "node scripts/bootstrap-admin.mjs",
     "audit:deps": "npm audit --omit=dev"
   },
   "dependencies": {

@@ -32,10 +32,7 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # env files (exclude secrets)
-.env
 .env*.local
-.env.production
-.env.development
 !.env.example
 
 # runtime CMS storage, credentials & drafts (server runtime only)
@@ -56,3 +53,4 @@ yarn-error.log*
 
 # vercel
 .vercel
+config.bat

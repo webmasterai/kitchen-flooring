@@ -71,12 +71,16 @@ function verifySession(token: string): SessionPayload | null {
 export async function getUsers(): Promise<AdminUser[]> {
   await mkdir(path.dirname(USERS_FILE), { recursive: true });
   if (!existsSync(USERS_FILE)) {
-    // Initialize default Owner account
+    // Initialize default Owner account (honors production bootstrap environment variables if provided)
+    const initialEmail = process.env.ADMIN_INITIAL_EMAIL || "admin@kitchenflooringdepot.com";
+    const initialPassword = process.env.ADMIN_INITIAL_PASSWORD || "AdminPassword2026!";
+    const initialName = process.env.ADMIN_INITIAL_NAME || "CMS Administrator";
+
     const initialOwner: AdminUser = {
       id: "owner-initial-01",
-      name: "CMS Administrator",
-      email: "admin@kitchenflooringdepot.com",
-      passwordHash: hashPassword("AdminPassword2026!"),
+      name: initialName,
+      email: initialEmail.toLowerCase().trim(),
+      passwordHash: hashPassword(initialPassword),
       role: "Owner",
       active: true,
       createdAt: new Date().toISOString(),
