@@ -30,8 +30,8 @@
   "logo": {
     "src": "/media/logo/kfd-logo.jpg",
     "alt": "Kitchen & Flooring Depot",
-    "width": 884,
-    "height": 416
+    "width": 766,
+    "height": 388
   },
   "seo": {
     "defaultTitle": "Kitchen & Flooring Depot | Newington, CT",
@@ -40,8 +40,8 @@
   },
   "footerBlurb": "Elevate your home with our stunning kitchen designs, blending style and functionality. Discover premium flooring solutions for every room, crafted to perfection.",
   "credit": {
-    "text": "Designed with care by Connected Bones.",
-    "note": "Source site credited Digitalsofts; redesign credit per approved design."
+    "text": "Designed by Digital Softs",
+    "author": "Digital Softs"
   },
   "sourceUrls": {
     "home": "https://website.kitchenflooringdepot.com/",

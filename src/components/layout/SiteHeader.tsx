@@ -53,14 +53,14 @@ export function SiteHeader() {
 
   return (
     <header className="sticky top-0 z-50 border-b border-border/70 bg-white/95 backdrop-blur">
-      <div className="container-site flex items-center justify-between gap-4 py-3 lg:py-3.5">
-        <Link href="/" className="shrink-0" onClick={() => setOpen(false)}>
+      <div className="container-site flex items-center justify-between gap-4 py-2 sm:py-2.5 lg:py-2.5">
+        <Link href="/" className="shrink-0 flex items-center" onClick={() => setOpen(false)}>
           <Image
             src={siteConfig.logo.src}
             alt={siteConfig.logo.alt}
-            width={220}
-            height={104}
-            className="h-[3.85rem] w-auto object-contain sm:h-[4.25rem]"
+            width={240}
+            height={122}
+            className="h-[4.35rem] w-auto object-contain sm:h-[4.85rem] lg:h-[5.25rem]"
             priority
           />
         </Link>

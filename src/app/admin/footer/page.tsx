@@ -147,7 +147,7 @@ export default function AdminFooterPage() {
             <label className="block text-xs font-bold text-gray-700 uppercase mb-1.5">Credit Line</label>
             <input
               type="text"
-              value={siteData.credit?.text || "Designed with care by Connected Bones."}
+              value={siteData.credit?.text || "Designed by Digital Softs"}
               onChange={(e) => {
                 setSiteData({
                   ...siteData,

@@ -13,19 +13,27 @@ import { contactPage, siteConfig } from "@/lib/content";
 
 export function ContactHero() {
   const { hero } = contactPage;
+  const bgImage = hero.backgroundImage || "/media/cta/quote-cta-plant-countertop.jpg";
 
   return (
     <section className="relative overflow-hidden bg-ivory">
-      {hero.backgroundImage ? (
-        <Image
-          src={hero.backgroundImage}
-          alt=""
-          fill
-          priority
-          className="pointer-events-none object-cover object-[right_top]"
-          sizes="100vw"
-          aria-hidden
-        />
+      {bgImage ? (
+        <>
+          <Image
+            src={bgImage}
+            alt={hero.backgroundAlt || "Warm ivory wall with olive foliage and stone countertop"}
+            fill
+            priority
+            className="pointer-events-none object-cover object-[24%_bottom] sm:object-[15%_bottom] md:object-[8%_bottom] lg:object-[left_bottom]"
+            sizes="100vw"
+            aria-hidden
+          />
+          {/* Subtle light overlay ensuring crisp readability across desktop and mobile */}
+          <div
+            className="pointer-events-none absolute inset-0 bg-white/80 sm:bg-white/60 md:bg-white/45 backdrop-blur-[0.5px]"
+            aria-hidden
+          />
+        </>
       ) : null}
       {hero.foliageImage ? (
         // Decorative SVG — native img avoids Next/Image SVG restrictions
@@ -58,7 +66,7 @@ export function ContactHero() {
         </nav>
 
         <div className="grid items-end gap-8 lg:grid-cols-[minmax(0,1.05fr)_auto_minmax(0,0.95fr)] lg:gap-0">
-          <div className="max-w-xl">
+          <div className="max-w-xl pl-1 sm:pl-0">
             <p className="eyebrow text-forest">{hero.eyebrow}</p>
             <h1 className="heading-display mt-4 text-[clamp(2.4rem,5vw,3.65rem)] text-charcoal">
               <span className="block">{hero.headingLine1}</span>
@@ -85,7 +93,7 @@ export function ContactHero() {
 }
 
 export function ContactMain({ defaultService }: { defaultService?: string } = {}) {
-  const { intro, kitchenImage, form } = contactPage;
+  const { intro, form } = contactPage;
   const { contact, social } = siteConfig;
 
   const rows = [
@@ -175,16 +183,6 @@ export function ContactMain({ defaultService }: { defaultService?: string } = {}
             >
               <IconInstagram className="h-4 w-4" size={16} />
             </a>
-          </div>
-
-          <div className="relative mt-9 aspect-[4/3] overflow-hidden bg-ivory-deep">
-            <Image
-              src={kitchenImage.src}
-              alt={kitchenImage.alt}
-              fill
-              className="object-cover object-center"
-              sizes="(max-width: 1024px) 100vw, 43vw"
-            />
           </div>
         </div>
 
