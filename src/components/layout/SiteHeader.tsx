@@ -88,12 +88,14 @@ export function SiteHeader() {
     };
   }, [mobileMenuOpen]);
 
-  // Close menus on route navigation
-  useEffect(() => {
+  // Close menus when route changes
+  const [prevPathname, setPrevPathname] = useState(pathname);
+  if (prevPathname !== pathname) {
+    setPrevPathname(pathname);
     setDesktopServicesOpen(false);
     setMobileMenuOpen(false);
     setMobileServicesOpen(false);
-  }, [pathname]);
+  }
 
   // Calculate pointer caret position relative to Services button center
   const updatePointer = useCallback(() => {
